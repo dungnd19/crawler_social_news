@@ -1,0 +1,27 @@
+version: "3.3"
+services:
+  scheduler:
+    build: .
+    restart: always
+    command:
+      - python
+      - -m
+      - src.app.scheduler
+
+  channel_article_parser:
+    build: .
+    restart: always
+    command:
+      - python
+      - -m
+      - src.app.channel_article_parser
+
+  article_parser:
+    build: .
+    restart: always
+    command:
+      - python
+      - -m
+      - src.app.article_parser
+    deploy:
+      replicas: 4

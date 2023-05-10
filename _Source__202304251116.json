@@ -1,0 +1,3133 @@
+{
+"Source": [
+	{
+		"id" : 3,
+		"url" : "https:\/\/zingnews.vn",
+		"sourceType" : 1,
+		"name" : "ZingNews",
+		"channels" : "https:\/\/zingnews.vn\/,https:\/\/zingnews.vn\/thoi-su.html,https:\/\/zingnews.vn\/the-gioi.html,https:\/\/zingnews.vn\/kinh-doanh-tai-chinh.html,https:\/\/zingnews.vn\/phap-luat.html,https:\/\/zingnews.vn\/xuat-ban.html,https:\/\/zingnews.vn\/the-thao.html,https:\/\/zingnews.vn\/cong-nghe.html,https:\/\/zingnews.vn\/oto-xe-may.html,https:\/\/zingnews.vn\/giai-tri.html,https:\/\/zingnews.vn\/am-nhac.html,https:\/\/zingnews.vn\/phim-anh.html,https:\/\/zingnews.vn\/thoi-trang.html,https:\/\/zingnews.vn\/song-tre.html,https:\/\/zingnews.vn\/giao-duc.html,https:\/\/zingnews.vn\/suc-khoe.html,https:\/\/zingnews.vn\/du-lich.html,https:\/\/zingnews.vn\/am-thuc.html,https:\/\/zingnews.vn\/nhip-song.html",
+		"settings" : "{   \"bodyExcSelector\": \".section-more,header\" }",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 4,
+		"url" : "https:\/\/dantri.com.vn",
+		"sourceType" : 1,
+		"name" : "Dân Trí",
+		"channels" : "http:\/\/dantri.com.vn\/,http:\/\/dantri.com.vn\/video-page.htm,http:\/\/dantri.com.vn\/su-kien.htm,http:\/\/dantri.com.vn\/xa-hoi.htm,http:\/\/dantri.com.vn\/the-gioi.htm,http:\/\/dantri.com.vn\/the-thao.htm,http:\/\/dantri.com.vn\/giao-duc-khuyen-hoc.htm,http:\/\/dantri.com.vn\/tam-long-nhan-ai.htm,http:\/\/dantri.com.vn\/kinh-doanh.htm,http:\/\/dantri.com.vn\/van-hoa.htm,http:\/\/dantri.com.vn\/giai-tri.htm,http:\/\/dantri.com.vn\/phap-luat.htm,http:\/\/dantri.com.vn\/nhip-song-tre.htm,http:\/\/dantri.com.vn\/suc-khoe.htm,http:\/\/dantri.com.vn\/suc-manh-so.htm,http:\/\/dantri.com.vn\/o-to-xe-may.htm,http:\/\/dantri.com.vn\/tinh-yeu-gioi-tinh.htm,http:\/\/dantri.com.vn\/chuyen-la.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 6,
+		"url" : "https:\/\/gamek.vn",
+		"sourceType" : 1,
+		"name" : "GameK",
+		"channels" : "http:\/\/gamek.vn\/mmo.chn,http:\/\/gamek.vn\/thi-truong.chn,http:\/\/gamek.vn\/pc-console.chn,http:\/\/gamek.vn\/esport.chn,http:\/\/gamek.vn\/mobile-social.chn,http:\/\/gamek.vn\/cosplay.chn",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 7,
+		"url" : "https:\/\/kenh14.vn",
+		"sourceType" : 1,
+		"name" : "Kênh14",
+		"channels" : "http:\/\/kenh14.vn\/,http:\/\/kenh14.vn\/star.chn,http:\/\/kenh14.vn\/musik.chn,http:\/\/kenh14.vn\/cine.chn,http:\/\/kenh14.vn\/tv-show.chn,http:\/\/kenh14.vn\/fashion.chn,http:\/\/kenh14.vn\/doi-song.chn,http:\/\/kenh14.vn\/xa-hoi.chn,http:\/\/kenh14.vn\/the-gioi.chn,http:\/\/kenh14.vn\/suc-khoe-gioi-tinh.chn,http:\/\/kenh14.vn\/made-by-me.chn,http:\/\/kenh14.vn\/sport.chn,http:\/\/kenh14.vn\/kham-pha.chn,http:\/\/kenh14.vn\/2-tek.chn,http:\/\/kenh14.vn\/la-cool.chn,http:\/\/kenh14.vn\/hoc-duong.chn,http:\/\/kenh14.vn\/video.chn",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 8,
+		"url" : "https:\/\/game4v.com",
+		"sourceType" : 1,
+		"name" : "Game4v",
+		"channels" : "http:\/\/game4v.com\/home\/category\/game-online,http:\/\/game4v.com\/home\/category\/game-offline,http:\/\/game4v.com\/home\/category\/game-mobile,http:\/\/game4v.com\/home\/category\/esports,http:\/\/game4v.com\/home\/category\/media,http:\/\/game4v.com\/home\/category\/cong-nghe,http:\/\/game4v.com\/home\/category\/thu-gian,http:\/\/game4v.com\/home\/category\/cong-dong",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 9,
+		"url" : "https:\/\/gametv.vn",
+		"sourceType" : 1,
+		"name" : "GameTv",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 10,
+		"url" : "https:\/\/motgame.vn",
+		"sourceType" : 1,
+		"name" : "Mot Game",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 11,
+		"url" : "https:\/\/lag.vn",
+		"sourceType" : 1,
+		"name" : "Lag",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 12,
+		"url" : "https:\/\/afamily.vn",
+		"sourceType" : 1,
+		"name" : "Afamily",
+		"channels" : "http:\/\/afamily.vn\/,http:\/\/afamily.vn\/video.chn,http:\/\/afamily.vn\/dep.chn,http:\/\/afamily.vn\/doi-song.chn,http:\/\/afamily.vn\/xa-hoi.chn,http:\/\/afamily.vn\/an-ngon.chn,http:\/\/afamily.vn\/tinh-yeu-hon-nhan.chn,http:\/\/afamily.vn\/suc-khoe.chn,http:\/\/afamily.vn\/tam-su.chn,http:\/\/afamily.vn\/me-va-be.chn,http:\/\/afamily.vn\/nha-hay.chn,http:\/\/afamily.vn\/hau-truong.chn,http:\/\/afamily.vn\/giai-tri.chn,http:\/\/afamily.vn\/chuyen-la.chn,http:\/\/afamily.vn\/quiz.chn,http:\/\/afamily.vn\/xa-hoi\/the-gioi.chn",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 13,
+		"url" : "https:\/\/www.elle.vn",
+		"sourceType" : 1,
+		"name" : "Elle",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 14,
+		"url" : "https:\/\/phunutoday.vn",
+		"sourceType" : 1,
+		"name" : "Phụ nữ Today",
+		"channels" : "https:\/\/phunutoday.vn\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 17,
+		"url" : "https:\/\/vnexpress.net\/tin-tuc-24h",
+		"sourceType" : 1,
+		"name" : "VnExpress",
+		"channels" : "https:\/\/vnexpress.net\/,https:\/\/vnexpress.net\/tin-tuc\/thoi-su,https:\/\/vnexpress.net\/tin-tuc\/goc-nhin,https:\/\/vnexpress.net\/tin-tuc\/the-gioi,https:\/\/vnexpress.net\/tin-tuc\/phap-luat,https:\/\/vnexpress.net\/tin-tuc\/giao-duc,https:\/\/vnexpress.net\/tin-tuc\/khoa-hoc,https:\/\/vnexpress.net\/tin-tuc\/oto-xe-may,https:\/\/vnexpress.net\/tin-tuc\/cong-dong,https:\/\/vnexpress.net\/tin-tuc\/tam-su,https:\/\/vnexpress.net\/tin-tuc\/cuoi,https:\/\/vnexpress.net\/tin-tuc\/anh",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 18,
+		"url" : "https:\/\/tuoitre.vn",
+		"sourceType" : 1,
+		"name" : "TuoiTre",
+		"channels" : "http:\/\/tuoitre.vn\/Tuoi-tre-cuoi-tuan\/index.html,http:\/\/tuoitre.vn\/Tuoi-tre-cuoi-tuan\/Van-de-su-kien\/index.html,http:\/\/tuoitre.vn\/Tuoi-tre-cuoi-tuan\/Cuoc-song-muon-mau\/index.html,http:\/\/tuoitre.vn\/Tuoi-tre-cuoi-tuan\/Van-hoa-nghe-thuat\/index.html,http:\/\/tuoitre.vn\/,http:\/\/tuoitre.vn\/tin\/media,http:\/\/tuoitre.vn\/thoi-su.htm,http:\/\/tuoitre.vn\/the-gioi.htm,http:\/\/tuoitre.vn\/phap-luat.htm,http:\/\/tuoitre.vn\/kinh-doanh.htm,http:\/\/tuoitre.vn\/nhip-song-tre.htm,http:\/\/tuoitre.vn\/van-hoa.htm,http:\/\/tuoitre.vn\/giai-tri.htm,http:\/\/tuoitre.vn\/giao-duc.htm,http:\/\/tuoitre.vn\/khoa-hoc.htm,http:\/\/tuoitre.vn\/suc-khoe.htm,http:\/\/tuoitre.vn\/gia-that.htm,http:\/\/tuoitre.vn\/thu-gian.htm,http:\/\/tuoitre.vn\/ban-doc-lam-bao.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 19,
+		"url" : "https:\/\/vneconomy.vn",
+		"sourceType" : 1,
+		"name" : "VnEconomy",
+		"channels" : "https:\/\/vneconomy.vn\/,https:\/\/vneconomy.vn\/kinh-te-so.htm,https:\/\/vneconomy.vn\/tai-chinh.htm,https:\/\/vneconomy.vn\/thi-truong.htm,https:\/\/vneconomy.vn\/nhip-cau-doanh-nghiep.htm,https:\/\/vneconomy.vn\/dia-oc.htm,https:\/\/vneconomy.vn\/kinh-te-the-gioi.htm,https:\/\/vneconomy.vn\/dan-sinh.htm,https:\/\/vneconomy.vn\/tieu-diem.htm,https:\/\/vneconomy.vn\/dau-tu.htm,https:\/\/vneconomy.vn\/emagazine.htm,https:\/\/vneconomy.vn\/xe-360.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 20,
+		"url" : "https:\/\/cafef.vn",
+		"sourceType" : 1,
+		"name" : "CafeF",
+		"channels" : "http:\/\/cafef.vn\/,http:\/\/cafef.vn\/thoi-su.chn,http:\/\/cafef.vn\/thi-truong-chung-khoan.chn,http:\/\/cafef.vn\/bat-dong-san.chn,http:\/\/cafef.vn\/doanh-nghiep.chn,http:\/\/cafef.vn\/tai-chinh-ngan-hang.chn,http:\/\/cafef.vn\/tai-chinh-quoc-te.chn,http:\/\/cafef.vn\/vi-mo-dau-tu.chn,http:\/\/cafef.vn\/song.chn,http:\/\/cafef.vn\/hang-hoa-nguyen-lieu.chn,http:\/\/cafef.vn\/videos.chn",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 22,
+		"url" : "https:\/\/ione.vnexpress.net",
+		"sourceType" : 1,
+		"name" : "iOne",
+		"channels" : "http:\/\/ione.vnexpress.net\/tin-tuc\/sao,http:\/\/ione.vnexpress.net\/tin-tuc\/qua-tang,http:\/\/ione.vnexpress.net\/tin-tuc\/nhip-song,http:\/\/ione.vnexpress.net\/tin-tuc\/vui-doc,http:\/\/ione.vnexpress.net\/video,http:\/\/ione.vnexpress.net\/tin-tuc\/chiem-tinh,http:\/\/ione.vnexpress.net\/tin-tuc\/lam-dep,http:\/\/ione.vnexpress.net\/tin-tuc\/thoi-trang,http:\/\/ione.vnexpress.net\/tin-tuc\/gioi-tinh,http:\/\/ione.vnexpress.net\/tin-tuc\/phim",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 33,
+		"url" : "http:\/\/ttvn.toquoc.vn",
+		"sourceType" : 1,
+		"name" : "ttvn.toquoc.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 34,
+		"url" : "https:\/\/vietgiaitri.com\/tin-moi\/",
+		"sourceType" : 1,
+		"name" : "vietgiaitri.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 35,
+		"url" : "https:\/\/viez.vn",
+		"sourceType" : 1,
+		"name" : "viez.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 36,
+		"url" : "https:\/\/vnreview.vn",
+		"sourceType" : 1,
+		"name" : "vnreview.vn",
+		"channels" : "http:\/\/vnreview.vn\/home,http:\/\/vnreview.vn\/home-di-dong,http:\/\/vnreview.vn\/home-laptop,http:\/\/vnreview.vn\/home-may-tinh-bang,http:\/\/vnreview.vn\/home-may-anh-so,http:\/\/vnreview.vn\/home-tivi,http:\/\/vnreview.vn\/home-do-gia-dung,http:\/\/vnreview.vn\/home-top-ten,http:\/\/vnreview.vn\/goc-nhin-vnreview,http:\/\/vnreview.vn\/danh-gia,http:\/\/vnreview.vn\/danh-gia-di-dong,http:\/\/vnreview.vn\/danh-gia-laptop,http:\/\/vnreview.vn\/danh-gia-may-tinh-bang,http:\/\/vnreview.vn\/danh-gia-may-anh-so,http:\/\/vnreview.vn\/danh-gia-tivi,http:\/\/vnreview.vn\/danh-gia-do-gia-dung,http:\/\/vnreview.vn\/phu-kien,http:\/\/vnreview.vn\/nha-thong-minh,http:\/\/vnreview.vn\/danh-gia-top-10,http:\/\/vnreview.vn\/danh-gia-theo-yeu-cau,http:\/\/vnreview.vn\/tin-tuc,http:\/\/vnreview.vn\/tin-tuc-an-ninh-mang,http:\/\/vnreview.vn\/tin-tuc-kinh-doanh,http:\/\/vnreview.vn\/tin-tuc-san-pham-moi,http:\/\/vnreview.vn\/tin-tuc-thi-truong,http:\/\/vnreview.vn\/tin-tuc-khoa-hoc-cong-nghe,http:\/\/vnreview.vn\/tin-tuc-xa-hoi-so,http:\/\/vnreview.vn\/anh-video,http:\/\/vnreview.vn\/xe,http:\/\/vnreview.vn\/tu-van,http:\/\/vnreview.vn\/tu-van-anh-so,http:\/\/vnreview.vn\/tu-van-bao-mat,http:\/\/vnreview.vn\/tu-van-di-dong,http:\/\/vnreview.vn\/am-thanh,http:\/\/vnreview.vn\/tu-van-may-tinh,http:\/\/vnreview.vn\/tu-van-do-gia-dung,http:\/\/vnreview.vn\/tu-van-web,http:\/\/vnreview.vn\/hoi-dap-ve-may-tinh,http:\/\/vnreview.vn\/hoi-dap-ve-di-dong",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 37,
+		"url" : "https:\/\/vnmedia.vn",
+		"sourceType" : 1,
+		"name" : "vnmedia.vn",
+		"channels" : "https:\/\/vnmedia.vn\/,https:\/\/vnmedia.vn\/cong-nghe\/,https:\/\/vnmedia.vn\/trai-nghiem-ict\/,https:\/\/vnmedia.vn\/truyen-thong-so\/,https:\/\/vnmedia.vn\/quoc-te\/,https:\/\/vnmedia.vn\/dan-sinh\/,https:\/\/vnmedia.vn\/kinh-te\/,https:\/\/vnmedia.vn\/van-hoa\/,https:\/\/vnmedia.vn\/the-thao\/,https:\/\/vnmedia.vn\/du-lich\/,https:\/\/vnmedia.vn\/oto-xe-may\/,https:\/\/vnmedia.vn\/video\/,https:\/\/vnmedia.vn\/quan-su\/,https:\/\/vnmedia.vn\/the-gioi-360\/,https:\/\/vnmedia.vn\/phap-luat\/,https:\/\/vnmedia.vn\/ban-doc\/,https:\/\/vnmedia.vn\/bat-dong-san\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 38,
+		"url" : "https:\/\/vietnamplus.vn",
+		"sourceType" : 1,
+		"name" : "vietnamplus.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 39,
+		"url" : "https:\/\/nhipsongkinhdoanh.vn",
+		"sourceType" : 1,
+		"name" : "nhipsongkinhdoanh.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 40,
+		"url" : "https:\/\/nhadautu.vn",
+		"sourceType" : 1,
+		"name" : "nhadautu.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 41,
+		"url" : "https:\/\/thitruongtaichinhtiente.vn",
+		"sourceType" : 1,
+		"name" : "thitruongtaichinhtiente.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 42,
+		"url" : "https:\/\/thanhnien.vn",
+		"sourceType" : 1,
+		"name" : "thanhnien.vn",
+		"channels" : "http:\/\/thanhnien.vn\/,http:\/\/thanhnien.vn\/thoi-su\/,http:\/\/thanhnien.vn\/toi-viet\/,http:\/\/thanhnien.vn\/the-gioi\/,http:\/\/thanhnien.vn\/van-hoa\/,http:\/\/thanhnien.vn\/doi-song\/,http:\/\/thanhnien.vn\/kinh-doanh\/,http:\/\/thanhnien.vn\/gioi-tre\/,http:\/\/thanhnien.vn\/giao-duc\/,http:\/\/thanhnien.vn\/cong-nghe\/,http:\/\/thanhnien.vn\/suc-khoe\/,https:\/\/thanhnien.vn\/list\/360.html,https:\/\/thanhnien.vn\/list\/thi-truong.html,https:\/\/thanhnien.vn\/list\/thoi-su.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 43,
+		"url" : "https:\/\/kinhtedothi.vn",
+		"sourceType" : 1,
+		"name" : "kinhtedothi.vn",
+		"channels" : "https:\/\/kinhtedothi.vn\/,http:\/\/kinhtedothi.vn\/video-clip.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 44,
+		"url" : "https:\/\/ndh.vn",
+		"sourceType" : 1,
+		"name" : "ndh.vn",
+		"channels" : "https:\/\/ndh.vn\/,https:\/\/ndh.vn\/vi-mo,https:\/\/ndh.vn\/chung-khoan,https:\/\/ndh.vn\/doanh-nghiep,https:\/\/ndh.vn\/tai-chinh,https:\/\/ndh.vn\/bat-dong-san,https:\/\/ndh.vn\/hang-hoa,https:\/\/ndh.vn\/quoc-te,https:\/\/ndh.vn\/tieu-dung,https:\/\/ndh.vn\/cong-nghe,http:\/\/ndh.vn\/cong-nghe-c97.htm,https:\/\/ndh.vn\/lam-giau,https:\/\/ndh.vn\/multimedia",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 45,
+		"url" : "https:\/\/danviet.vn",
+		"sourceType" : 1,
+		"name" : "danviet.vn",
+		"channels" : "http:\/\/danviet.vn\/,http:\/\/danviet.vn\/video-anh\/,http:\/\/danviet.vn\/tin-tuc\/,http:\/\/danviet.vn\/the-gioi\/,http:\/\/danviet.vn\/the-thao\/,http:\/\/danviet.vn\/phap-luat\/,http:\/\/danviet.vn\/kinh-te\/,http:\/\/danviet.vn\/van-hoa\/,http:\/\/danviet.vn\/giai-tri\/,http:\/\/danviet.vn\/du-lich\/,http:\/\/danviet.vn\/ban-doc\/,http:\/\/danviet.vn\/song-tre\/,http:\/\/danviet.vn\/dep\/,http:\/\/danviet.vn\/gia-dinh\/,http:\/\/danviet.vn\/cong-nghe\/,http:\/\/danviet.vn\/o-to-xe-may\/,http:\/\/danviet.vn\/chuyen-la\/,http:\/\/danviet.vn\/lang-cuoi\/,http:\/\/danviet.vn\/dong-tay-kim-co\/,http:\/\/danviet.vn\/doanh-nghiep\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 46,
+		"url" : "https:\/\/daibieunhandan.vn",
+		"sourceType" : 1,
+		"name" : "daibieunhandan.vn",
+		"channels" : "https:\/\/daibieunhandan.vn\/,https:\/\/daibieunhandan.vn\/quoc-hoi,https:\/\/daibieunhandan.vn\/dai-bieu-cu-tri,https:\/\/daibieunhandan.vn\/hoi-dong-nhan-dan,https:\/\/daibieunhandan.vn\/nghi-vien-the-gioi,https:\/\/daibieunhandan.vn\/video,https:\/\/daibieunhandan.vn\/anh,https:\/\/daibieunhandan.vn\/goc-dai-bieu,https:\/\/daibieunhandan.vn\/van-de-hom-nay,https:\/\/daibieunhandan.vn\/tai-chinh-bat-dong-san,https:\/\/daibieunhandan.vn\/viet-nam-va-the-gioi",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 47,
+		"url" : "https:\/\/vietnamfinance.vn",
+		"sourceType" : 1,
+		"name" : "vietnamfinance.vn",
+		"channels" : "http:\/\/vietnamfinance.vn\/tieu-diem.htm,http:\/\/vietnamfinance.vn\/tai-chinh.htm,http:\/\/vietnamfinance.vn\/ngan-hang.htm,http:\/\/vietnamfinance.vn\/thi-truong.htm,http:\/\/vietnamfinance.vn\/do-thi.htm,http:\/\/vietnamfinance.vn\/tai-chinh-quoc-te.htm,http:\/\/vietnamfinance.vn\/ma.htm,http:\/\/vietnamfinance.vn\/startup.htm,http:\/\/vietnamfinance.vn\/nhan-vat.htm,http:\/\/vietnamfinance.vn\/thue.htm,http:\/\/vietnamfinance.vn\/tai-chinh-tieu-dung.htm,https:\/\/vietnamfinance.vn\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 48,
+		"url" : "https:\/\/bongda24h.vn",
+		"sourceType" : 1,
+		"name" : "bongda24h.vn",
+		"channels" : "http:\/\/bongda24h.vn\/,http:\/\/bongda24h.vn\/tin-nong-c279-p1.html,http:\/\/bongda24h.vn\/nhan-dinh-bong-da-c344-p1.html,http:\/\/bongda24h.vn\/binh-luan-c278-p1.html,http:\/\/bongda24h.vn\/chuyen-nhuong-c187-p1.html,http:\/\/bongda24h.vn\/bong-da-anh-c172-p1.html,http:\/\/bongda24h.vn\/bong-da-tay-ban-nha-c180-p1.html,http:\/\/bongda24h.vn\/bong-da-chau-au-c184-p1.html,http:\/\/bongda24h.vn\/bong-da-viet-nam-c168-p1.html,http:\/\/bongda24h.vn\/video-c189-p1.html,http:\/\/bongda24h.vn\/tdp.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 49,
+		"url" : "https:\/\/vov.vn",
+		"sourceType" : 1,
+		"name" : "vov.vn",
+		"channels" : "http:\/\/vov.vn\/,https:\/\/vov.vn\/chinh-tri,http:\/\/vov.vn\/doi-song\/,http:\/\/vov.vn\/the-gioi\/,http:\/\/vov.vn\/kinh-te\/,http:\/\/vov.vn\/xa-hoi\/,http:\/\/vov.vn\/phap-luat\/,http:\/\/vov.vn\/the-thao\/,http:\/\/vov.vn\/van-hoa-giai-tri\/,http:\/\/vov.vn\/quan-su-quoc-phong\/,http:\/\/vov.vn\/suc-khoe\/,http:\/\/vov.vn\/multimedia\/,http:\/\/vov.vn\/oto-xe-may\/,http:\/\/vov.vn\/du-lich\/,http:\/\/vov.vn\/nha-dep\/,http:\/\/vov.vn\/goc-nhin-vov\/,https:\/\/vov.vn\/viec-lam,https:\/\/vov.vn\/di-san,https:\/\/vov.vn\/phap-luat\/tu-van-luat,https:\/\/vov.vn\/kinh-te\/doanh-nghiep,https:\/\/vov.vn\/tinh-yeu-gia-dinh,https:\/\/vov.vn\/suc-khoe\/nam-khoa,https:\/\/vov.vn\/suc-khoe\/phong-mach-online,https:\/\/vov.vn\/suc-khoe\/nhi-khoa,https:\/\/vov.vn\/quan-su-quoc-phong\/phan-tich,https:\/\/vov.vn\/sach-noi,https:\/\/vov.vn\/podcast\/cau-chuyen-thoi-su,https:\/\/vov.vn\/podcast\/hat-giong-tam-hon,https:\/\/vov.vn\/podcast\/cua-so-tinh-yeu,https:\/\/vov.vn\/giai-tri\/hau-truong-showbiz",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 50,
+		"url" : "https:\/\/tinthethao.com.vn",
+		"sourceType" : 1,
+		"name" : "tinthethao.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 51,
+		"url" : "https:\/\/thethao.vn",
+		"sourceType" : 1,
+		"name" : "thethao.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 52,
+		"url" : "https:\/\/vietnamnet.vn",
+		"sourceType" : 1,
+		"name" : "vietnamnet.vn",
+		"channels" : "https:\/\/vietnamnet.vn\/,https:\/\/vietnamnet.vn\/vn\/thoi-su\/,https:\/\/vietnamnet.vn\/vn\/kinh-doanh\/,https:\/\/vietnamnet.vn\/vn\/giai-tri\/,https:\/\/vietnamnet.vn\/vn\/the-gioi\/,https:\/\/vietnamnet.vn\/vn\/giao-duc\/,https:\/\/vietnamnet.vn\/vn\/doi-song\/,https:\/\/vietnamnet.vn\/vn\/phap-luat\/,https:\/\/vietnamnet.vn\/vn\/the-thao\/,https:\/\/vietnamnet.vn\/vn\/cong-nghe\/,https:\/\/vietnamnet.vn\/vn\/suc-khoe\/,https:\/\/vietnamnet.vn\/vn\/bat-dong-san\/,https:\/\/vietnamnet.vn\/vn\/ban-doc\/,https:\/\/vietnamnet.vn\/vn\/infographic\/,https:\/\/vietnamnet.vn\/vn\/blog\/,https:\/\/vietnamnet.vn\/vn\/tuanvietnam\/,https:\/\/vietnamnet.vn\/vn\/tuanvietnam\/tieudiem\/,https:\/\/vietnamnet.vn\/vn\/tuanvietnam\/dachieu\/,https:\/\/vietnamnet.vn\/vn\/goc-nhin-thang\/,https:\/\/vietnamnet.vn\/vn\/hotface\/,https:\/\/vietnamnet.vn\/vn\/ban-tron-truc-tuyen\/,https:\/\/vietnamnet.vn\/vn\/chuyen-trang\/oto-xemay\/,https:\/\/vietnamnet.vn\/vn\/kinh-doanh\/vef\/,https:\/\/vietnamnet.vn\/video\/hot-nhat\/,https:\/\/vietnamnet.vn\/vn\/multimedia\/,https:\/\/vietnamnet.vn\/video",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 53,
+		"url" : "https:\/\/nhandan.vn",
+		"sourceType" : 1,
+		"name" : "nhandan.vn",
+		"channels" : "https:\/\/nhandan.vn\/,https:\/\/nhandan.vn\/chinhtri,https:\/\/nhandan.vn\/kinhte,https:\/\/nhandan.vn\/vanhoa,https:\/\/nhandan.vn\/xahoi,https:\/\/nhandan.vn\/thegioi,https:\/\/nhandan.vn\/khoahoc-congnghe,https:\/\/nhandan.vn\/giaoduc,https:\/\/nhandan.vn\/suckhoe,https:\/\/nhandan.vn\/phapluat,https:\/\/nhandan.vn\/thethao,https:\/\/nhandan.vn\/bandoc,https:\/\/nhandan.vn\/hanoi,https:\/\/nhandan.vn\/tphcm,https:\/\/nhandan.vn\/chungkhoan,https:\/\/nhandan.vn\/chungkhoan-thitruong,https:\/\/nhandan.vn\/phan-tich,https:\/\/nhandan.vn\/chungkhoan-doanhnghiep,https:\/\/nhandan.vn\/tai-chinh,https:\/\/nhandan.vn\/du-lich,https:\/\/nhandan.vn\/megastory,https:\/\/nhandan.vn\/megastory",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 54,
+		"url" : "https:\/\/tiin.vn",
+		"sourceType" : 1,
+		"name" : "tiin.vn",
+		"channels" : "http:\/\/tiin.vn\/,http:\/\/tiin.vn\/sao.html,http:\/\/tiin.vn\/nhac.html,http:\/\/tiin.vn\/phim.html,http:\/\/tiin.vn\/song.html,http:\/\/tiin.vn\/hoc.html,http:\/\/tiin.vn\/yeu.html,http:\/\/tiin.vn\/dep.html,http:\/\/tiin.vn\/nghiem.html,http:\/\/tiin.vn\/24.html,http:\/\/tiin.vn\/tin-anh.html,http:\/\/tiin.vn\/video.html,http:\/\/tiin.vn\/sanh.html,http:\/\/tiin.vn\/vui.html,http:\/\/tiin.vn\/nhip-song-hssv.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 55,
+		"url" : "https:\/\/vtv.vn",
+		"sourceType" : 1,
+		"name" : "vtv.vn",
+		"channels" : "http:\/\/vtv.vn\/,http:\/\/vtv.vn\/trong-nuoc.htm,http:\/\/vtv.vn\/the-gioi.htm,http:\/\/vtv.vn\/kinh-te.htm,http:\/\/vtv.vn\/truyen-hinh.htm,http:\/\/vtv.vn\/chuyen-dong-24h.htm,http:\/\/vtv.vn\/van-de-hom-nay.htm,http:\/\/vtv.vn\/viet-nam-va-the-gioi.htm,http:\/\/vtv.vn\/goc-khan-gia.htm,http:\/\/vtv.vn\/van-hoa-giai-tri.htm,http:\/\/vtv.vn\/doi-song.htm,http:\/\/vtv.vn\/suc-khoe.htm,http:\/\/vtv.vn\/tam-long-viet.htm,http:\/\/vtv.vn\/goc-doanh-nghiep.htm,http:\/\/vtv.vn\/cong-nghe.htm,http:\/\/vtv.vn\/giao-duc.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 56,
+		"url" : "https:\/\/doisongphapluat.com",
+		"sourceType" : 1,
+		"name" : "doisongphapluat.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 57,
+		"url" : "http:\/\/daidoanket.vn",
+		"sourceType" : 1,
+		"name" : "daidoanket.vn",
+		"channels" : "http:\/\/daidoanket.vn\/chinh-tri,http:\/\/daidoanket.vn\/mat-tran,http:\/\/daidoanket.vn\/xa-hoi,http:\/\/daidoanket.vn\/kinh-te,http:\/\/daidoanket.vn\/khoa-hoc,http:\/\/daidoanket.vn\/van-hoa,http:\/\/daidoanket.vn\/the-thao,http:\/\/daidoanket.vn\/quoc-te,http:\/\/daidoanket.vn\/phap-luat,http:\/\/daidoanket.vn\/suc-khoe,http:\/\/daidoanket.vn\/giao-thong",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 58,
+		"url" : "https:\/\/soha.vn",
+		"sourceType" : 1,
+		"name" : "soha.vn",
+		"channels" : "http:\/\/soha.vn\/,http:\/\/soha.vn\/thoi-su.htm,http:\/\/soha.vn\/kinh-doanh.htm,http:\/\/soha.vn\/quoc-te.htm,http:\/\/soha.vn\/quan-su.htm,http:\/\/soha.vn\/the-thao.htm,http:\/\/soha.vn\/cu-dan-mang.htm,http:\/\/soha.vn\/giai-tri.htm,http:\/\/soha.vn\/phap-luat.htm,http:\/\/soha.vn\/song-khoe.htm,http:\/\/soha.vn\/infographic.htm,http:\/\/soha.vn\/doi-song.htm,http:\/\/soha.vn\/video.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 59,
+		"url" : "https:\/\/kienthuc.net.vn",
+		"sourceType" : 1,
+		"name" : "kienthuc.net.vn",
+		"channels" : "https:\/\/kienthuc.net.vn\/,https:\/\/kienthuc.net.vn\/xa-hoi\/,https:\/\/kienthuc.net.vn\/the-gioi\/,https:\/\/kienthuc.net.vn\/cong-dong-tre\/,https:\/\/kienthuc.net.vn\/truyen-hinh-video\/,https:\/\/kienthuc.net.vn\/kinh-doanh\/,https:\/\/kienthuc.net.vn\/quan-su\/,https:\/\/kienthuc.net.vn\/kho-tri-thuc\/,https:\/\/kienthuc.net.vn\/o-to-xe-may\/,https:\/\/kienthuc.net.vn\/khoa-hoc-cong-nghe\/,https:\/\/kienthuc.net.vn\/giai-tri\/,https:\/\/kienthuc.net.vn\/khoe-dep\/,https:\/\/kienthuc.net.vn\/ban-doc-dieu-tra\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 60,
+		"url" : "https:\/\/nongnghiep.vn",
+		"sourceType" : 1,
+		"name" : "nongnghiep.vn",
+		"channels" : "https:\/\/nongnghiep.vn\/thoi-su\/,https:\/\/nongnghiep.vn\/kinh-te\/,https:\/\/nongnghiep.vn\/khuyen-nong\/,http:\/\/nongnghiep.vn\/doi-song-xa-hoi-45-15.html,http:\/\/nongnghiep.vn\/van-hoa-giai-tri-79-15.html,http:\/\/nongnghiep.vn\/phong-su-5-15.html,https:\/\/nongnghiep.vn\/lang-kinh\/,http:\/\/nongnghiep.vn\/suc-khoe-gia-dinh-9-15.html,http:\/\/nongnghiep.vn\/nong-thon-moi-10-15.html,http:\/\/nongnghiep.vn\/the-gioi-8-15.html,http:\/\/nongnghiep.vn\/phap-luat-15-15.html,https:\/\/nongnghiep.vn\/thuy-san\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 61,
+		"url" : "https:\/\/toquoc.vn",
+		"sourceType" : 1,
+		"name" : "toquoc.vn",
+		"channels" : "https:\/\/toquoc.vn\/,https:\/\/toquoc.vn\/thoi-su.htm,https:\/\/toquoc.vn\/van-hoa.htm,https:\/\/toquoc.vn\/the-thao.htm,https:\/\/toquoc.vn\/du-lich.htm,https:\/\/toquoc.vn\/the-gioi.htm,https:\/\/toquoc.vn\/kinh-te.htm,https:\/\/toquoc.vn\/giai-tri.htm,https:\/\/toquoc.vn\/giao-duc.htm,https:\/\/toquoc.vn\/suc-khoe.htm,http:\/\/toquoc.vn\/video-clip\/,https:\/\/toquoc.vn\/phap-luat.htm,https:\/\/toquoc.vn\/cu-dan-mang.htm,https:\/\/toquoc.vn\/to-quoc-media.htm,https:\/\/toquoc.vn\/cong-nghe.htm,https:\/\/toquoc.vn\/kham-pha.htm,https:\/\/toquoc.vn\/to-quoc-media\/ban-tin-phat-thanh.htm,https:\/\/toquoc.vn\/to-quoc-media\/phong-su-anh.htm,https:\/\/toquoc.vn\/to-quoc-media\/ban-tin-phat-thanh.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 62,
+		"url" : "https:\/\/bongdaplus.vn",
+		"sourceType" : 1,
+		"name" : "bongdaplus.vn",
+		"channels" : "http:\/\/bongdaplus.vn\/,http:\/\/bongdaplus.vn\/tin-tuc\/viet-nam\/,http:\/\/bongdaplus.vn\/tin-tuc\/anh\/,http:\/\/bongdaplus.vn\/tin-tuc\/tay-ban-nha\/,http:\/\/bongdaplus.vn\/tin-tuc\/duc\/,http:\/\/bongdaplus.vn\/tin-tuc\/italia\/,http:\/\/bongdaplus.vn\/tin-tuc\/phap\/,http:\/\/bongdaplus.vn\/tin-tuc\/champions-league\/,http:\/\/bongdaplus.vn\/tin-tuc\/europa-league\/,http:\/\/bongdaplus.vn\/lich-thi-dau.html,http:\/\/bongdaplus.vn\/tin-van\/,http:\/\/bongdaplus.vn\/tin-tuc\/the-gioi\/,http:\/\/bongdaplus.vn\/tin-tuc\/chuyen-nhuong\/,http:\/\/bongdaplus.vn\/tin-tuc\/ngoi-sao\/,http:\/\/bongdaplus.vn\/tin-tuc\/the-thao\/,http:\/\/bongdaplus.vn\/tin-tuc\/dam-me\/,http:\/\/bongdaplus.vn\/tin-tuc\/biem-hoa\/,http:\/\/bongdaplus.vn\/tin-tuc\/ban-doc-viet\/,http:\/\/bongdaplus.vn\/nhan-dinh-bong-da\/",
+		"settings" : "{   \"bodyExcSelector\": \".allcap,dl,.ft-med\" }",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 63,
+		"url" : "https:\/\/anninhthudo.vn",
+		"sourceType" : 1,
+		"name" : "anninhthudo.vn",
+		"channels" : "https:\/\/anninhthudo.vn\/,https:\/\/anninhthudo.vn\/chinh-tri-xa-hoi\/3.antd,https:\/\/anninhthudo.vn\/quan-su\/163.antd,https:\/\/anninhthudo.vn\/the-gioi\/7.antd,https:\/\/anninhthudo.vn\/phap-luat\/80.antd,https:\/\/anninhthudo.vn\/truyen-hinh-atv\/146.antd,https:\/\/anninhthudo.vn\/oto-xe-may\/136.antd,https:\/\/anninhthudo.vn\/doi-song\/69.antd,https:\/\/anninhthudo.vn\/giai-tri\/8.antd,https:\/\/anninhthudo.vn\/the-thao\/9.antd,https:\/\/anninhthudo.vn\/song-o-ha-noi\/169.antd,https:\/\/anninhthudo.vn\/media\/photo.antd",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 64,
+		"url" : "https:\/\/1thegioi.vn",
+		"sourceType" : 1,
+		"name" : "1thegioi.vn",
+		"channels" : "https:\/\/1thegioi.vn\/,https:\/\/1thegioi.vn\/tin-tuc-su-kien,https:\/\/1thegioi.vn\/khoa-hoc-cong-nghe,https:\/\/1thegioi.vn\/kinh-te-dau-tu-du-an,https:\/\/1thegioi.vn\/y-hoc-suc-khoe,https:\/\/1thegioi.vn\/thong-tin-va-phat-trien,https:\/\/1thegioi.vn\/van-hoa-loi-song,https:\/\/1thegioi.vn\/quoc-te,https:\/\/1thegioi.vn\/goc-video",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 65,
+		"url" : "https:\/\/giaoducthoidai.vn",
+		"sourceType" : 1,
+		"name" : "giaoducthoidai.vn",
+		"channels" : "https:\/\/giaoducthoidai.vn\/thoi-su.html,https:\/\/giaoducthoidai.vn\/giao-duc.html,https:\/\/giaoducthoidai.vn\/trao-doi.html,https:\/\/giaoducthoidai.vn\/khoa-hoc.html,http:\/\/giaoducthoidai.vn\/cong-nghe\/,https:\/\/giaoducthoidai.vn\/tre.html,https:\/\/giaoducthoidai.vn\/van-hoa.html,https:\/\/giaoducthoidai.vn\/gia-dinh.html,https:\/\/giaoducthoidai.vn\/suc-khoe.html,https:\/\/giaoducthoidai.vn\/the-gioi.html,https:\/\/giaoducthoidai.vn\/video.html,https:\/\/giaoducthoidai.vn\/nhan-ai.html,https:\/\/giaoducthoidai.vn\/,https:\/\/giaoducthoidai.vn\/phap-luat.html,https:\/\/giaoducthoidai.vn\/goc-nhin.html,https:\/\/giaoducthoidai.vn\/ket-noi.html,https:\/\/giaoducthoidai.vn\/the-thao.html",
+		"settings" : "{   \"bodyExcSelector\": \"article\" }",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 66,
+		"url" : "https:\/\/doisongvietnam.vn",
+		"sourceType" : 1,
+		"name" : "doisongvietnam.vn",
+		"channels" : "https:\/\/doisongvietnam.vn\/xa-hoi.html,https:\/\/doisongvietnam.vn\/quoc-te.html,https:\/\/doisongvietnam.vn\/doi-song-net.html,https:\/\/doisongvietnam.vn\/giai-tri.html,https:\/\/doisongvietnam.vn\/suc-khoe.html,https:\/\/doisongvietnam.vn\/the-thao.html,https:\/\/doisongvietnam.vn\/kham-pha.html,https:\/\/doisongvietnam.vn\/cong-nghe.html,https:\/\/doisongvietnam.vn\/phap-luat.html,https:\/\/doisongvietnam.vn\/video-clip.html,https:\/\/doisongvietnam.vn\/goc-nhin.html,https:\/\/doisongvietnam.vn\/tieu-dung.html,https:\/\/doisongvietnam.vn\/tai-chinh.html,https:\/\/doisongvietnam.vn\/news\/listmagazine.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 67,
+		"url" : "https:\/\/ngoisao.vn",
+		"sourceType" : 1,
+		"name" : "ngoisao.vn",
+		"channels" : "https:\/\/ngoisao.vn\/,https:\/\/ngoisao.vn\/hau-truong\/,https:\/\/ngoisao.vn\/dep\/,https:\/\/ngoisao.vn\/dien-anh\/,https:\/\/ngoisao.vn\/dan-ong\/,https:\/\/ngoisao.vn\/tam\/,https:\/\/ngoisao.vn\/lam-dep\/,https:\/\/ngoisao.vn\/suc-khoe\/,https:\/\/ngoisao.vn\/nha-dep\/,https:\/\/ngoisao.vn\/ngam\/,https:\/\/ngoisao.vn\/xa\/,https:\/\/ngoisao.vn\/gioi-tre\/,https:\/\/ngoisao.vn\/ky-quac\/,https:\/\/ngoisao.vn\/cong-nghe\/,https:\/\/ngoisao.vn\/theo-dong-su-kien\/,https:\/\/ngoisao.vn\/video\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 68,
+		"url" : "https:\/\/bestie.vn",
+		"sourceType" : 1,
+		"name" : "bestie.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 69,
+		"url" : "https:\/\/dienanh.net",
+		"sourceType" : 1,
+		"name" : "dienanh.net",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 70,
+		"url" : "https:\/\/nguoiduatin.vn",
+		"sourceType" : 1,
+		"name" : "nguoiduatin.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 71,
+		"url" : "https:\/\/yan.vn",
+		"sourceType" : 1,
+		"name" : "yan.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 72,
+		"url" : "https:\/\/yeah1.com",
+		"sourceType" : 1,
+		"name" : "yeah1.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 73,
+		"url" : "https:\/\/thegioidienanh.vn",
+		"sourceType" : 1,
+		"name" : "thegioidienanh.vn",
+		"channels" : "http:\/\/thegioidienanh.vn\/,http:\/\/thegioidienanh.vn\/moi-nhat,http:\/\/thegioidienanh.vn\/dien-anh,http:\/\/thegioidienanh.vn\/truyen-hinh,http:\/\/thegioidienanh.vn\/sao,http:\/\/thegioidienanh.vn\/van-hoa-giai-tri-6,http:\/\/thegioidienanh.vn\/trai-nghiem-song,http:\/\/thegioidienanh.vn\/photos,http:\/\/thegioidienanh.vn\/video",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 74,
+		"url" : "https:\/\/2sao.vn",
+		"sourceType" : 1,
+		"name" : "2sao.vn",
+		"channels" : "http:\/\/2sao.vn\/sao-c-aae\/,http:\/\/2sao.vn\/phim-c-aaj\/,http:\/\/2sao.vn\/nhac-c-aap\/,http:\/\/2sao.vn\/dep-c-aav\/,http:\/\/2sao.vn\/yolo-c-aax\/,http:\/\/2sao.vn\/yeu-c-aa3\/,http:\/\/2sao.vn\/an-c-aa6\/,http:\/\/2sao.vn\/hai-c-abd\/,http:\/\/2sao.vn\/khoe-c-abe\/,http:\/\/2sao.vn\/chat-c-abi\/,http:\/\/2sao.vn\/ngam-c-abn\/,http:\/\/2sao.vn\/clip\/,http:\/\/2sao.vn\/multimedia\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 75,
+		"url" : "https:\/\/thoitrangtre.thanhnien.vn",
+		"sourceType" : 1,
+		"name" : "thoitrangtre.thanhnien.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 76,
+		"url" : "https:\/\/phunuvietnam.vn",
+		"sourceType" : 1,
+		"name" : "phunuvietnam.vn",
+		"channels" : "https:\/\/phunuvietnam.vn\/,https:\/\/phunuvietnam.vn\/xa-hoi.htm,https:\/\/phunuvietnam.vn\/luat-va-doi.htm,http:\/\/phunuvietnam.vn\/hon-nhan-gia-dinh.html,https:\/\/phunuvietnam.vn\/khoe.htm,https:\/\/phunuvietnam.vn\/dep.htm,https:\/\/phunuvietnam.vn\/yeu.htm,https:\/\/phunuvietnam.vn\/tieu-dung.htm,https:\/\/phunuvietnam.vn\/doanh-nghiep-doanh-nhan.htm,https:\/\/phunuvietnam.vn\/doc-la.htm,https:\/\/phunuvietnam.vn\/van-hoa-giai-tri.htm,http:\/\/phunuvietnam.vn\/goc-tam-hon.html,http:\/\/phunuvietnam.vn\/kho-bau.html,https:\/\/phunuvietnam.vn\/giao-duc.htm,https:\/\/phunuvietnam.vn\/magazine.htm,https:\/\/phunuvietnam.vn\/video.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 77,
+		"url" : "https:\/\/vnews.gov.vn",
+		"sourceType" : 1,
+		"name" : "vnews.gov.vn",
+		"channels" : "https:\/\/vnews.gov.vn\/share,https:\/\/vnews.gov.vn\/,https:\/\/vnews.gov.vn\/kinh-te.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 78,
+		"url" : "https:\/\/sggp.org.vn",
+		"sourceType" : 1,
+		"name" : "sggp.org.vn",
+		"channels" : "http:\/\/sggp.org.vn\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 79,
+		"url" : "https:\/\/tienphong.vn",
+		"sourceType" : 1,
+		"name" : "tienphong.vn",
+		"channels" : "https:\/\/tienphong.vn\/longform\/",
+		"settings" : "{   \"bodyExcSelector\": \".story\" }",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 80,
+		"url" : "https:\/\/cand.com.vn",
+		"sourceType" : 1,
+		"name" : "cand.com.vn",
+		"channels" : "http:\/\/cand.com.vn\/,http:\/\/cand.com.vn\/thoi-su\/,http:\/\/cand.com.vn\/cong-an\/,http:\/\/cand.com.vn\/xa-hoi\/,http:\/\/cand.com.vn\/phap-luat\/,http:\/\/cand.com.vn\/quoc-te\/,http:\/\/cand.com.vn\/van-hoa\/,http:\/\/cand.com.vn\/the-thao\/,http:\/\/cand.com.vn\/khoa-hoc-quan-su\/,http:\/\/cand.com.vn\/kinh-te\/,http:\/\/cand.com.vn\/ban-doc-cand\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 81,
+		"url" : "https:\/\/congly.vn",
+		"sourceType" : 1,
+		"name" : "congly.vn",
+		"channels" : "http:\/\/congly.vn\/phap-dinh\/,http:\/\/congly.vn\/phap-luat\/,http:\/\/congly.vn\/xa-hoi\/,http:\/\/congly.vn\/giai-tri\/,http:\/\/congly.vn\/the-thao\/,http:\/\/congly.vn\/kinh-doanh\/,http:\/\/congly.vn\/thoi-su\/,http:\/\/congly.vn\/the-gioi\/,http:\/\/congly.vn\/cong-nghe\/,http:\/\/congly.vn\/xa-hoi\/suc-khoe\/,http:\/\/congly.vn\/xa-hoi\/giao-duc\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 82,
+		"url" : "https:\/\/baovephapluat.vn",
+		"sourceType" : 1,
+		"name" : "baovephapluat.vn",
+		"channels" : "https:\/\/baovephapluat.vn\/kiem-sat-24h,https:\/\/baovephapluat.vn\/cong-to-kiem-sat-tu-phap,https:\/\/baovephapluat.vn\/phap-dinh\/ky-an,https:\/\/baovephapluat.vn\/cai-cach-tu-phap,https:\/\/baovephapluat.vn\/van-hoa-xa-hoi,https:\/\/baovephapluat.vn\/quoc-te,https:\/\/baovephapluat.vn\/kinh-te,https:\/\/baovephapluat.vn\/van-hoa-xa-hoi\/y-te,http:\/\/baovephapluat.vn\/video",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 83,
+		"url" : "https:\/\/infonet.vietnamnet.vn",
+		"sourceType" : 1,
+		"name" : "infonet.vietnamnet.vn",
+		"channels" : "https:\/\/infonet.vietnamnet.vn\/,https:\/\/infonet.vietnamnet.vn\/the-gioi\/,https:\/\/infonet.vietnamnet.vn\/thi-truong\/,https:\/\/infonet.vietnamnet.vn\/doi-song\/,https:\/\/infonet.vietnamnet.vn\/gia-dinh\/,https:\/\/infonet.vietnamnet.vn\/gioi-tre\/,https:\/\/infonet.vietnamnet.vn\/khoe-dep\/,https:\/\/infonet.vietnamnet.vn\/chuyen-la\/,https:\/\/infonet.vietnamnet.vn\/quan-su\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 84,
+		"url" : "http:\/\/nld.com.vn",
+		"sourceType" : 1,
+		"name" : "nld.com.vn",
+		"channels" : "https:\/\/nld.com.vn\/,https:\/\/nld.com.vn\/thoi-su\/chinh-tri.htm,https:\/\/nld.com.vn\/thoi-su.htm,https:\/\/nld.com.vn\/thoi-su\/xa-hoi.htm,https:\/\/nld.com.vn\/thoi-su\/ha-noi.htm,https:\/\/nld.com.vn\/thoi-su-quoc-te.htm,https:\/\/nld.com.vn\/thoi-su-quoc-te\/van-de-nong.htm,https:\/\/nld.com.vn\/thoi-su-quoc-te\/ho-so.htm,https:\/\/nld.com.vn\/thoi-su-quoc-te\/video-clip.htm,https:\/\/nld.com.vn\/khoa-hoc.htm,https:\/\/nld.com.vn\/kinh-te.htm,https:\/\/nld.com.vn\/kinh-te\/doanh-nghiep.htm,https:\/\/nld.com.vn\/kinh-te\/chuyen-quan-ly.htm,https:\/\/nld.com.vn\/kinh-te\/oto-xe-dien-may.htm,https:\/\/nld.com.vn\/kinh-te\/bat-dong-san.htm,https:\/\/nld.com.vn\/kinh-te\/chuyen-doi-so.htm,https:\/\/nld.com.vn\/suc-khoe.htm,https:\/\/nld.com.vn\/suc-khoe\/chuyen-dong-y-hoc.htm,https:\/\/nld.com.vn\/suc-khoe\/gioi-tinh.htm,https:\/\/nld.com.vn\/suc-khoe\/bac-si-cua-ban.htm,https:\/\/nld.com.vn\/phap-luat.htm,https:\/\/nld.com.vn\/phap-luat\/hoi-dap-phap-luat.htm,https:\/\/nld.com.vn\/phap-luat\/chuyen-phap-dinh.htm,https:\/\/nld.com.vn\/the-thao.htm,https:\/\/nld.com.vn\/the-thao\/bong-da.htm,https:\/\/nld.com.vn\/the-thao\/chuyen-dong-trong-ngay.htm,https:\/\/nld.com.vn\/ban-doc.htm,https:\/\/nld.com.vn\/ban-doc\/cuoc-song-nhan-ai.htm,https:\/\/nld.com.vn\/ban-doc\/toi-len-tieng.htm,https:\/\/nld.com.vn\/ban-doc\/net-dep-doi-thuong.htm,https:\/\/nld.com.vn\/ban-doc\/goc-anh-ban-doc.htm,https:\/\/nld.com.vn\/ban-doc\/du-luan.htm,https:\/\/nld.com.vn\/van-nghe.htm,https:\/\/nld.com.vn\/giao-duc-khoa-hoc.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 85,
+		"url" : "https:\/\/vtc.vn",
+		"sourceType" : 1,
+		"name" : "vtc.vn",
+		"channels" : "http:\/\/vtc.vn\/thegioigame\/400-0\/tin-tuc\/index.htm,http:\/\/vtc.vn\/thegioigame\/424-0\/cong-dong\/index.htm,http:\/\/vtc.vn\/thegioigame\/398-0\/danh-gia\/index.htm,http:\/\/vtc.vn\/thegioigame\/399-0\/mini-game\/index.htm,http:\/\/vtc.vn\/thegioigame\/426-0\/video-clips\/index.htm,http:\/\/vtc.vn\/bvntd\/435-0\/bao-ve-nguoi-tieu-dung\/dieu-tra\/index.htm,http:\/\/vtc.vn\/bvntd\/436-0\/bao-ve-nguoi-tieu-dung\/y-kien\/index.htm,http:\/\/vtc.vn\/bvntd\/156-0\/the-gioi-tieu-dung\/index.htm,http:\/\/vtc.vn\/bvntd\/431-0\/khuyen-mai-giam-gia\/index.htm,http:\/\/vtc.vn\/bvntd\/449-0\/hoi-bao-ve-nguoi-tieu-dung\/index.htm,http:\/\/vtc.vn\/trangbandoc\/467-0\/co-quan-tra-loi\/index.htm,http:\/\/vtc.vn\/trangbandoc\/462-0\/tam-su\/index.htm,http:\/\/vtc.vn\/trangbandoc\/472-0\/ban-doc-viet\/index.htm,http:\/\/vtc.vn\/trangbandoc\/463-0\/buc-xuc-thuong-ngay\/index.htm,http:\/\/vtc.vn\/congnghe\/558-0\/tin-tuc-su-kien\/index.htm,http:\/\/vtc.vn\/congnghe\/559-0\/san-pham-moi\/index.htm,http:\/\/vtc.vn\/congnghe\/560-0\/thu-thuat-meo-vat\/index.htm,http:\/\/vtc.vn\/congnghe\/561-0\/bac-sy-may-tinh\/index.htm,http:\/\/vtc.vn\/,https:\/\/vtc.vn\/thoi-su-28.html,https:\/\/vtc.vn\/truyen-hinh-27.html,https:\/\/vtc.vn\/kinh-te-29.html,https:\/\/vtc.vn\/the-gioi-30.html,https:\/\/vtc.vn\/giao-duc-31.html,https:\/\/vtc.vn\/phap-luat-32.html,https:\/\/vtc.vn\/giai-tri-33.html,https:\/\/vtc.vn\/the-thao-34.html,https:\/\/vtc.vn\/suc-khoe-35.html,https:\/\/vtc.vn\/phong-su-kham-pha-36.html,https:\/\/vtc.vn\/oto-xe-may-37.html,https:\/\/vtc.vn\/khoa-hoc-cong-nghe-82.html,https:\/\/vtc.vn\/dia-oc-52.html,https:\/\/vtc.vn\/doanh-nghiep-doanh-nhan-83.html,https:\/\/vtc.vn\/gia-dinh-78.html,https:\/\/vtc.vn\/tre-227.html,https:\/\/vtc.vn\/chat-231.html,https:\/\/vtc.vn\/showbiz-229.html,https:\/\/vtc.vn\/tre-228.html,https:\/\/vtc.vn\/thu-gian-230.html,https:\/\/vtc.vn\/tan-man-232.html,https:\/\/vtc.vn\/radio-vtc-news-219.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 86,
+		"url" : "https:\/\/phunuonline.com.vn",
+		"sourceType" : 1,
+		"name" : "phunuonline.com.vn",
+		"channels" : "http:\/\/phunuonline.com.vn\/,http:\/\/phunuonline.com.vn\/thoi-su\/,http:\/\/phunuonline.com.vn\/the-gioi\/,http:\/\/phunuonline.com.vn\/tinh-yeu-hon-nhan\/,http:\/\/phunuonline.com.vn\/suc-khoe\/,http:\/\/phunuonline.com.vn\/dep\/,http:\/\/phunuonline.com.vn\/van-hoa-giai-tri\/,http:\/\/phunuonline.com.vn\/thi-truong\/,http:\/\/phunuonline.com.vn\/nha-dat\/,http:\/\/phunuonline.com.vn\/gia-dinh\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 87,
+		"url" : "https:\/\/congluan.vn",
+		"sourceType" : 1,
+		"name" : "congluan.vn",
+		"channels" : "https:\/\/congluan.vn\/,https:\/\/congluan.vn\/thoi-su.html,https:\/\/congluan.vn\/dien-dan-cong-luan.html,https:\/\/congluan.vn\/nghe-bao.html,https:\/\/congluan.vn\/phap-luat.html,https:\/\/congluan.vn\/doi-song--xa-hoi.html,https:\/\/congluan.vn\/van-hoa.html,https:\/\/congluan.vn\/kinh-te.html,https:\/\/congluan.vn\/khoa-hoc--cong-nghe.html,https:\/\/congluan.vn\/quoc-te.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 88,
+		"url" : "https:\/\/phunuvagiadinh.vn",
+		"sourceType" : 1,
+		"name" : "phunuvagiadinh.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 89,
+		"url" : "https:\/\/baotainguyenmoitruong.vn",
+		"sourceType" : 1,
+		"name" : "baotainguyenmoitruong.vn",
+		"channels" : "http:\/\/baotainguyenmoitruong.vn\/,http:\/\/baotainguyenmoitruong.vn\/thoi-su\/,http:\/\/baotainguyenmoitruong.vn\/tai-nguyen-va-cuoc-song\/,http:\/\/baotainguyenmoitruong.vn\/moi-truong-va-phat-trien\/,http:\/\/baotainguyenmoitruong.vn\/kinh-te\/,http:\/\/baotainguyenmoitruong.vn\/phap-luat\/,http:\/\/baotainguyenmoitruong.vn\/ban-doc\/,http:\/\/baotainguyenmoitruong.vn\/suc-khoe-doi-song\/,http:\/\/baotainguyenmoitruong.vn\/the-gioi\/,http:\/\/baotainguyenmoitruong.vn\/tu-van-phap-luat\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 90,
+		"url" : "https:\/\/baodautu.vn",
+		"sourceType" : 1,
+		"name" : "baodautu.vn",
+		"channels" : "http:\/\/baodautu.vn\/,http:\/\/baodautu.vn\/thoi-su-d1\/,http:\/\/baodautu.vn\/dau-tu-d2\/,http:\/\/baodautu.vn\/doanh-nghiep-d3\/,http:\/\/baodautu.vn\/doanh-nhan-d4\/,http:\/\/baodautu.vn\/tai-chinh-bao-hiem-d6\/,http:\/\/baodautu.vn\/dau-thau---dau-gia-d45\/,http:\/\/baodautu.vn\/khong-gian-khoi-nghiep-d44\/,http:\/\/baodautu.vn\/diem-nong-d41\/,http:\/\/baodautu.vn\/tieu-dung-d8\/,http:\/\/baodautu.vn\/o-to-xe-may-d9\/,http:\/\/baodautu.vn\/cong-nghe-d10\/,http:\/\/baodautu.vn\/dau-tu-va-cuoc-song-d27\/,http:\/\/baodautu.vn\/thong-tin-doanh-nghiep-d36\/,https:\/\/baodautu.vn\/special.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 91,
+		"url" : "https:\/\/baogiaothong.vn",
+		"sourceType" : 1,
+		"name" : "baogiaothong.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 92,
+		"url" : "https:\/\/reatimes.vn",
+		"sourceType" : 1,
+		"name" : "reatimes.vn",
+		"channels" : "http:\/\/reatimes.vn\/,http:\/\/reatimes.vn\/thoi-su-c48,http:\/\/reatimes.vn\/cafe-bds-c10,http:\/\/reatimes.vn\/vnrea-news-c2,http:\/\/reatimes.vn\/thi-truong-du-bao-c3,http:\/\/reatimes.vn\/bds-doi-song-c4,http:\/\/reatimes.vn\/bds-c5,http:\/\/reatimes.vn\/bao-ve-ntd-c6,http:\/\/reatimes.vn\/du-an-c7,http:\/\/reatimes.vn\/phap-ly-bds-c39,http:\/\/reatimes.vn\/su-kien,http:\/\/reatimes.vn\/video",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 93,
+		"url" : "https:\/\/baoxaydung.com.vn",
+		"sourceType" : 1,
+		"name" : "baoxaydung.com.vn",
+		"channels" : "https:\/\/baoxaydung.com.vn\/thoi-su,https:\/\/baoxaydung.com.vn\/quy-hoach-kien-truc,https:\/\/baoxaydung.com.vn\/vat-lieu,https:\/\/baoxaydung.com.vn\/kinh-te,https:\/\/baoxaydung.com.vn\/xa-hoi,https:\/\/baoxaydung.com.vn\/the-gioi,https:\/\/baoxaydung.com.vn\/van-hoa,https:\/\/baoxaydung.com.vn\/giai-tri,https:\/\/baoxaydung.com.vn\/suc-khoe,https:\/\/baoxaydung.com.vn\/ban-doc\/ban-hoi-bo-xay-dung-tra-loi,http:\/\/baoxaydung.com.vn\/khoa-hoc-cong-nghe,http:\/\/baoxaydung.com.vn\/du-lich,https:\/\/baoxaydung.com.vn\/video\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 94,
+		"url" : "https:\/\/baodauthau.vn",
+		"sourceType" : 1,
+		"name" : "baodauthau.vn",
+		"channels" : "http:\/\/baodauthau.vn\/thoi-su\/,http:\/\/baodauthau.vn\/dau-thau\/,http:\/\/baodauthau.vn\/dau-gia\/,http:\/\/baodauthau.vn\/doanh-nghiep\/,http:\/\/baodauthau.vn\/dau-tu\/,http:\/\/baodauthau.vn\/tai-chinh\/,http:\/\/baodauthau.vn\/bat-dong-san\/,http:\/\/baodauthau.vn\/phap-luat\/,http:\/\/baodauthau.vn\/quoc-te\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 95,
+		"url" : "https:\/\/vietnammoi.vn",
+		"sourceType" : 1,
+		"name" : "vietnammoi.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 96,
+		"url" : "https:\/\/bnews.vn",
+		"sourceType" : 1,
+		"name" : "bnews.vn",
+		"channels" : "http:\/\/bnews.vn\/,http:\/\/bnews.vn\/thoi-su\/1\/trang-1.html,http:\/\/bnews.vn\/the-gioi\/2\/trang-1.html,http:\/\/bnews.vn\/tai-chinh-ngan-hang\/3\/trang-1.html,http:\/\/bnews.vn\/tai-chinh\/17\/trang-1.html,http:\/\/bnews.vn\/ngan-hang\/18\/trang-1.html,http:\/\/bnews.vn\/chung-khoan\/33\/trang-1.html,http:\/\/bnews.vn\/gia-vang\/32\/trang-1.html,http:\/\/bnews.vn\/thi-truong\/4\/trang-1.html,http:\/\/bnews.vn\/hang-hoa\/20\/trang-1.html,http:\/\/bnews.vn\/bat-dong-san\/21\/trang-1.html,http:\/\/bnews.vn\/doanh-nghiep\/6\/trang-1.html,http:\/\/bnews.vn\/chuyen-dong-dn\/24\/trang-1.html,http:\/\/bnews.vn\/dn-can-biet\/25\/trang-1.html,http:\/\/bnews.vn\/dn-cong-dong\/26\/trang-1.html,http:\/\/bnews.vn\/mua-sam-tieu-dung\/5\/trang-1.html,http:\/\/bnews.vn\/kinh-te-xa-hoi\/7\/trang-1.html,http:\/\/bnews.vn\/phap-luat\/34\/trang-1.html,http:\/\/bnews.vn\/doi-song\/35\/trang-1.html,http:\/\/bnews.vn\/du-bao-thoi-tiet\/36\/trang-1.html,http:\/\/bnews.vn\/khuyen-nong\/37\/trang-1.html,http:\/\/bnews.vn\/video\/trang-1.html",
+		"settings" : "{   \"bodyExcSelector\": \".uk-inline-clip\" }",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 97,
+		"url" : "https:\/\/vietnambiz.vn",
+		"sourceType" : 1,
+		"name" : "vietnambiz.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 98,
+		"url" : "https:\/\/fili.vn",
+		"sourceType" : 1,
+		"name" : "fili.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 99,
+		"url" : "https:\/\/viettimes.vn",
+		"sourceType" : 1,
+		"name" : "viettimes.vn",
+		"channels" : "https:\/\/viettimes.vn\/,https:\/\/viettimes.vn\/truyen-thong-so\/,https:\/\/viettimes.vn\/khoa-hoc-cong-nghe\/,https:\/\/viettimes.vn\/chuyen-doi-so\/,https:\/\/viettimes.vn\/xa-hoi\/,https:\/\/viettimes.vn\/suc-khoe\/,https:\/\/viettimes.vn\/Emagazine\/,https:\/\/viettimes.vn\/the-gioi\/,https:\/\/viettimes.vn\/doi-song\/,https:\/\/viettimes.vn\/van-hoa\/,https:\/\/viettimes.vn\/the-thao\/,https:\/\/viettimes.vn\/quan-diem\/,https:\/\/viettimes.vn\/multimedia\/,https:\/\/viettimes.vn\/hoi-truyen-thong-so-vn\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 100,
+		"url" : "https:\/\/songdep.com.vn",
+		"sourceType" : 1,
+		"name" : "songdep.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 101,
+		"url" : "https:\/\/doanhnhanvn.vn",
+		"sourceType" : 1,
+		"name" : "doanhnhanvn.vn",
+		"channels" : "https:\/\/doanhnhanvn.vn\/thi-truong,https:\/\/doanhnhanvn.vn\/chung-khoan,https:\/\/doanhnhanvn.vn\/tai-chinh,https:\/\/doanhnhanvn.vn\/doanh-nghiep,https:\/\/doanhnhanvn.vn\/doanh-nhan,https:\/\/doanhnhanvn.vn\/thoi-cuoc,https:\/\/doanhnhanvn.vn\/hoi-vbpa,https:\/\/doanhnhanvn.vn\/kinh-te-so,https:\/\/doanhnhanvn.vn\/xa-hoi,https:\/\/doanhnhanvn.vn\/phap-luat,https:\/\/doanhnhanvn.vn\/bat-dong-san,https:\/\/doanhnhanvn.vn\/ho-so-doanh-nghiep,https:\/\/doanhnhanvn.vn\/,https:\/\/doanhnhanvn.vn\/tin-moi.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 102,
+		"url" : "https:\/\/hanoimoi.com.vn",
+		"sourceType" : 1,
+		"name" : "hanoimoi.com.vn",
+		"channels" : "http:\/\/hanoimoi.com.vn\/,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/192\/chinh-tri,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/163\/xa-hoi,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/190\/kinh-te,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/189\/the-gioi,http:\/\/hanoimoi.com.vn\/media-home\/truyen-hinh,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/170\/the-thao,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/175\/phap-luat,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/179\/van-hoa,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/164\/giao-duc,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/100\/khoa-hoc,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/224\/doi-song,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/228\/phong-su-ky-su,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/601\/oto-xemay,http:\/\/hanoimoi.com.vn\/hinh-anh,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/184\/luan-ban-hanh-dong,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/481\/suy-ngam,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/521\/doi-thoai,http:\/\/hanoimoi.com.vn\/danh-muc-tin\/187\/ban-doc,http:\/\/hanoimoi.com.vn\/video",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 103,
+		"url" : "https:\/\/trithuccuocsong.vn",
+		"sourceType" : 1,
+		"name" : "trithuccuocsong.vn",
+		"channels" : "http:\/\/trithuccuocsong.vn\/,http:\/\/trithuccuocsong.vn\/bat-dong-san\/,http:\/\/vietnamdaily.trithuccuocsong.vn\/tin-247\/,http:\/\/vietnamdaily.trithuccuocsong.vn\/hitech-xe\/,http:\/\/vietnamdaily.trithuccuocsong.vn\/tai-chinh-ngan-hang\/,http:\/\/vietnamdaily.trithuccuocsong.vn\/golf-doanh-nhan\/,http:\/\/vietnamdaily.trithuccuocsong.vn\/doanh-nghiep\/,http:\/\/vietnamdaily.trithuccuocsong.vn\/tieu-dung-ban-doc\/",
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 104,
+		"url" : "https:\/\/cafebiz.vn",
+		"sourceType" : 1,
+		"name" : "cafebiz.vn",
+		"channels" : "http:\/\/cafebiz.vn\/,http:\/\/cafebiz.vn\/thoi-su.chn,http:\/\/cafebiz.vn\/vi-mo.chn,http:\/\/cafebiz.vn\/cau-chuyen-kinh-doanh.chn,http:\/\/cafebiz.vn\/cong-nghe.chn,http:\/\/cafebiz.vn\/song.chn,http:\/\/cafebiz.vn\/videos.chn",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 105,
+		"url" : "https:\/\/voh.com.vn",
+		"sourceType" : 1,
+		"name" : "voh.com.vn",
+		"channels" : "http:\/\/voh.com.vn\/,http:\/\/voh.com.vn\/tam-ly-suc-khoe-521.html,http:\/\/voh.com.vn\/lich-phat-song-596.html,http:\/\/voh.com.vn\/kien-thuc-cham-con-613.html,http:\/\/voh.com.vn\/kenh-594.html,http:\/\/voh.com.vn\/video-595.html,http:\/\/voh.com.vn\/hoi-dap-597.html,http:\/\/voh.com.vn\/tin-tuc-573.html,http:\/\/voh.com.vn\/ky-nang-653.html,http:\/\/voh.com.vn\/khoa-hoc-giao-duc-577.html,http:\/\/voh.com.vn\/van-hoa-giai-tri-525.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 106,
+		"url" : "https:\/\/laodongcongdoan.vn",
+		"sourceType" : 1,
+		"name" : "laodongcongdoan.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 107,
+		"url" : "https:\/\/doanhnhansaigon.vn",
+		"sourceType" : 1,
+		"name" : "doanhnhansaigon.vn",
+		"channels" : "https:\/\/doanhnhansaigon.vn,https:\/\/doanhnhansaigon.vn\/cong-nghe,https:\/\/doanhnhansaigon.vn\/van-hoa-nghe-thuat,https:\/\/doanhnhansaigon.vn\/quan-tri,https:\/\/doanhnhansaigon.vn\/kinh-doanh,https:\/\/doanhnhansaigon.vn\/multimedia,https:\/\/doanhnhansaigon.vn\/co-hoi-giao-thuong,https:\/\/doanhnhansaigon.vn\/tin-tuc,https:\/\/doanhnhansaigon.vn\/doanh-nhan,https:\/\/doanhnhansaigon.vn\/dien-dan,https:\/\/doanhnhansaigon.vn\/video,https:\/\/doanhnhansaigon.vn\/du-lich",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 108,
+		"url" : "https:\/\/thesaigontimes.vn",
+		"sourceType" : 1,
+		"name" : "thesaigontimes.vn",
+		"channels" : "https:\/\/thesaigontimes.vn\/tin-podcasts\/,https:\/\/thesaigontimes.vn\/tin-podcasts\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 109,
+		"url" : "https:\/\/vietstock.vn",
+		"sourceType" : 1,
+		"name" : "vietstock.vn",
+		"channels" : "http:\/\/vietstock.vn\/144\/chung-khoan.rss,http:\/\/vietstock.vn\/733\/doanh-nghiep.rss,http:\/\/vietstock.vn\/763\/bat-dong-san.rss,http:\/\/vietstock.vn\/2\/hang-hoa.rss,http:\/\/vietstock.vn\/734\/tai-chinh.rss,http:\/\/vietstock.vn\/761\/vi-mo-dau-tu.rss,http:\/\/vietstock.vn\/768\/kinh-te-nganh.rss,http:\/\/vietstock.vn\/736\/the-gioi.rss,http:\/\/vietstock.vn\/1317\/dong-duong.rss,http:\/\/vietstock.vn\/579\/nhan-dinh-phan-tich.rss,https:\/\/vietstock.vn\/chung-khoan\/co-phieu.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 110,
+		"url" : "https:\/\/plo.vn",
+		"sourceType" : 1,
+		"name" : "plo.vn",
+		"channels" : "http:\/\/plo.vn\/,http:\/\/plo.vn\/thoi-su\/,http:\/\/plo.vn\/an-ninh-trat-tu\/,http:\/\/plo.vn\/phap-luat\/,http:\/\/plo.vn\/kinh-te\/,http:\/\/plo.vn\/an-sach-song-khoe\/,http:\/\/plo.vn\/do-thi\/,http:\/\/plo.vn\/xa-hoi\/,http:\/\/plo.vn\/van-hoa-giai-tri\/,http:\/\/plo.vn\/quoc-te\/,http:\/\/plo.vn\/bat-dong-san\/,http:\/\/plo.vn\/the-thao\/,http:\/\/plo.vn\/media\/,http:\/\/plo.vn\/xe-va-luat\/,http:\/\/plo.vn\/ban-doc\/",
+		"settings" : "{   \"bodyExcSelector\": \".box-style-21,.story\" }",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 111,
+		"url" : "https:\/\/phunusuckhoe.giadinhonline.vn",
+		"sourceType" : 1,
+		"name" : "phunusuckhoe.giadinhonline.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 112,
+		"url" : "https:\/\/tv.tuoitre.vn",
+		"sourceType" : 1,
+		"name" : "tv.tuoitre.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 113,
+		"url" : "https:\/\/vovgiaothong.vn",
+		"sourceType" : 1,
+		"name" : "vovgiaothong.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 114,
+		"url" : "https:\/\/congthuong.vn",
+		"sourceType" : 1,
+		"name" : "congthuong.vn",
+		"channels" : "http:\/\/congthuong.vn,http:\/\/congthuong.vn\/thoi-su,http:\/\/congthuong.vn\/chinh-sach-phap-luat,http:\/\/congthuong.vn\/video,http:\/\/congthuong.vn\/cong-nghiep,http:\/\/congthuong.vn\/khoa-hoc-cong-nghe,http:\/\/congthuong.vn\/doanh-nghiep-doanh-nhan,http:\/\/congthuong.vn\/van-hoa,http:\/\/congthuong.vn\/thuong-mai,http:\/\/congthuong.vn\/hoi-nhap,http:\/\/congthuong.vn\/xa-hoi,http:\/\/congthuong.vn\/thuong-hieu,http:\/\/congthuong.vn\/tai-chinh,https:\/\/congthuong.vn\/cong-thuong-tv",
+		"settings" : "{   \"bodyExcSelector\": \".article,.bx-cat-content\" }",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 115,
+		"url" : "https:\/\/webthethao.vn",
+		"sourceType" : 1,
+		"name" : "webthethao.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 116,
+		"url" : "https:\/\/thethao.sggp.org.vn",
+		"sourceType" : 1,
+		"name" : "thethao.sggp.org.vn",
+		"channels" : "http:\/\/thethao.sggp.org.vn\/,http:\/\/thethao.sggp.org.vn\/thethao\/vleague\/,http:\/\/thethao.sggp.org.vn\/futsal\/,http:\/\/thethao.sggp.org.vn\/toc-do\/,http:\/\/thethao.sggp.org.vn\/khoanh-khac-the-thao\/,http:\/\/thethao.sggp.org.vn\/bongchuyen\/,http:\/\/thethao.sggp.org.vn\/thethao\/cacmonkhac\/,http:\/\/thethao.sggp.org.vn\/thethao\/thethaohocduong\/,http:\/\/thethao.sggp.org.vn\/thethao\/bongdaquocte\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 117,
+		"url" : "https:\/\/thethaovanhoa.vn",
+		"sourceType" : 1,
+		"name" : "thethaovanhoa.vn",
+		"channels" : "http:\/\/thethaovanhoa.vn\/,http:\/\/thethaovanhoa.vn\/bong-da-trong-nuoc-128ct0.htm,http:\/\/thethaovanhoa.vn\/bong-da-anh-149ct0.htm,http:\/\/thethaovanhoa.vn\/tay-ban-nha-151ct0.htm,http:\/\/thethaovanhoa.vn\/duc-152ct0.htm,http:\/\/thethaovanhoa.vn\/italia-150ct0.htm,http:\/\/thethaovanhoa.vn\/champions-league-155ct0.htm,http:\/\/thethaovanhoa.vn\/the-thao-158ct0.htm,http:\/\/thethaovanhoa.vn\/the-gioi-sao-585ct0.htm,http:\/\/thethaovanhoa.vn\/van-hoa-giai-tri-133ct0.htm,http:\/\/thethaovanhoa.vn\/dien-dan-van-hoa-475ct0.htm,http:\/\/thethaovanhoa.vn\/xa-hoi-132ct0.htm,http:\/\/thethaovanhoa.vn\/the-gioi-131ct0.htm,http:\/\/thethaovanhoa.vn\/video-the-thao-hot.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 118,
+		"url" : "https:\/\/kynguyenso.plo.vn",
+		"sourceType" : 1,
+		"name" : "kynguyenso.plo.vn",
+		"channels" : "http:\/\/kynguyenso.plo.vn\/,http:\/\/kynguyenso.plo.vn\/ky-nguyen-so\/nhip-cong-nghe\/,http:\/\/kynguyenso.plo.vn\/ky-nguyen-so\/thiet-bi-so\/,http:\/\/kynguyenso.plo.vn\/ky-nguyen-so\/tuyet-chieu\/,http:\/\/kynguyenso.plo.vn\/ky-nguyen-so\/video\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 119,
+		"url" : "https:\/\/autodaily.vn",
+		"sourceType" : 1,
+		"name" : "autodaily.vn",
+		"channels" : "http:\/\/autodaily.vn\/,http:\/\/autodaily.vn\/chuyen-muc\/xe-moi\/o-to\/13\/,http:\/\/autodaily.vn\/chuyen-muc\/xe-moi\/xe-may\/14\/,http:\/\/autodaily.vn\/chuyen-muc\/danh-gia-xe\/xe-may\/17,http:\/\/autodaily.vn\/chuyen-muc\/5\/tin-tuc-xe\/,http:\/\/autodaily.vn\/chuyen-muc\/22\/tu-van-xe\/,http:\/\/autodaily.vn\/chuyen-muc\/18\/chuyen-de-xe\/,http:\/\/autodaily.vn\/chuyen-muc\/40\/trien-lam-o-to\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 120,
+		"url" : "https:\/\/tinhte.vn",
+		"sourceType" : 1,
+		"name" : "tinhte.vn",
+		"channels" : "https:\/\/tinhte.vn\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 121,
+		"url" : "https:\/\/autopro.com.vn",
+		"sourceType" : 1,
+		"name" : "autopro.com.vn",
+		"channels" : "http:\/\/autopro.com.vn\/,http:\/\/autopro.com.vn\/video.chn,http:\/\/autopro.com.vn\/tin-tuc.chn,http:\/\/autopro.com.vn\/danh-gia-xe.chn,http:\/\/autopro.com.vn\/van-hoa-xe.chn,http:\/\/autopro.com.vn\/ky-thuat-tu-van.chn,http:\/\/autopro.com.vn\/xe-may.chn,http:\/\/autopro.com.vn\/ngoai-hang-anh.chn",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 122,
+		"url" : "https:\/\/doanhnghiepvn.vn",
+		"sourceType" : 1,
+		"name" : "doanhnghiepvn.vn",
+		"channels" : "https:\/\/doanhnghiepvn.vn\/,http:\/\/doanhnghiepvn.vn\/984\/doanh-nghiep,https:\/\/doanhnghiepvn.vn\/958\/kinh-te,https:\/\/doanhnghiepvn.vn\/965\/doi-song,http:\/\/doanhnghiepvn.vn\/989\/phap-luat,http:\/\/doanhnghiepvn.vn\/984\/doanh-nghiep,http:\/\/doanhnghiepvn.vn\/968\/van-hoa,http:\/\/doanhnghiepvn.vn\/967\/quoc-te,http:\/\/doanhnghiepvn.vn\/966\/the-thao,https:\/\/doanhnghiepvn.vn\/987\/cong-nghe,https:\/\/doanhnghiepvn.vn\/985\/doanh-nhan,https:\/\/doanhnghiepvn.vn\/1034\/chuyen-doi-so,https:\/\/doanhnghiepvn.vn\/970\/ban-doc,https:\/\/doanhnghiepvn.vn\/946\/video",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 123,
+		"url" : "https:\/\/giadinh.suckhoedoisong.vn",
+		"sourceType" : 1,
+		"name" : "giadinh.suckhoedoisong.vn",
+		"channels" : "https:\/\/giadinh.suckhoedoisong.vn\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 124,
+		"url" : "https:\/\/suckhoedoisong.vn",
+		"sourceType" : 1,
+		"name" : "suckhoedoisong.vn",
+		"channels" : "http:\/\/suckhoedoisong.vn\/,https:\/\/suckhoedoisong.vn\/thoi-su.htm,https:\/\/suckhoedoisong.vn\/y-te.htm,https:\/\/suckhoedoisong.vn\/suc-khoe-tv.htm,https:\/\/suckhoedoisong.vn\/duoc.htm,https:\/\/suckhoedoisong.vn\/duoc.htm,https:\/\/suckhoedoisong.vn\/y-hoc-co-truyen.htm,https:\/\/suckhoedoisong.vn\/khoe-dep.htm,https:\/\/suckhoedoisong.vn\/dinh-duong.htm,https:\/\/suckhoedoisong.vn\/gioi-tinh.htm,https:\/\/suckhoedoisong.vn\/nhip-cau-nhan-ai.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 125,
+		"url" : "https:\/\/hoahoctro.tienphong.vn",
+		"sourceType" : 1,
+		"name" : "hoahoctro.tienphong.vn",
+		"channels" : "https:\/\/hoahoctro.tienphong.vn\/,https:\/\/hoahoctro.tienphong.vn\/hht-giai-tri\/,https:\/\/hoahoctro.tienphong.vn\/hht-doi-song\/,https:\/\/hoahoctro.tienphong.vn\/hht-ban-do-thanh-pho\/,https:\/\/hoahoctro.tienphong.vn\/hht-anh-clip-hay\/,https:\/\/hoahoctro.tienphong.vn\/hht-cam-nang-teen\/,https:\/\/hoahoctro.tienphong.vn\/hht-hau-truong-showbiz\/,https:\/\/hoahoctro.tienphong.vn\/hht-ca-chep-hoa-rong\/,https:\/\/hoahoctro.tienphong.vn\/hht-goc-hanh-phuc\/,https:\/\/hoahoctro.tienphong.vn\/hht-kham-pha\/,https:\/\/hoahoctro.tienphong.vn\/hht-dung-bo-lo\/,https:\/\/hoahoctro.tienphong.vn\/hht-horoscope\/,https:\/\/hoahoctro.tienphong.vn\/hht-dep-hon-moi-ngay\/,https:\/\/hoahoctro.tienphong.vn\/hht-suoi-am-trai-tim\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 126,
+		"url" : "https:\/\/cuoi.tuoitre.vn",
+		"sourceType" : 1,
+		"name" : "cuoi.tuoitre.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 127,
+		"url" : "https:\/\/saostar.vn",
+		"sourceType" : 1,
+		"name" : "saostar.vn",
+		"channels" : "http:\/\/saostar.vn\/,http:\/\/saostar.vn\/the-gioi-sao\/,http:\/\/saostar.vn\/tv-show\/,http:\/\/saostar.vn\/am-nhac\/,http:\/\/saostar.vn\/dien-anh\/,http:\/\/saostar.vn\/thoi-trang\/,http:\/\/saostar.vn\/doi-song\/,http:\/\/saostar.vn\/xa-hoi\/,http:\/\/saostar.vn\/the-thao\/,http:\/\/saostar.vn\/the-gioi\/,http:\/\/saostar.vn\/food\/,http:\/\/saostar.vn\/dating\/,http:\/\/saostar.vn\/video\/,https:\/\/saostar.vn\/cong-nghe\/,https:\/\/saostar.vn\/giai-tri\/,https:\/\/saostar.vn\/dep-360\/,https:\/\/saostar.vn\/sinh-vien-tv\/,https:\/\/saostar.vn\/doi-song\/doanh-nghiep-startup\/,https:\/\/saostar.vn\/doi-song\/guong-mat\/,https:\/\/saostar.vn\/tin-moi\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 128,
+		"url" : "https:\/\/laodongtre.laodong.vn",
+		"sourceType" : 1,
+		"name" : "laodongtre.laodong.vn",
+		"channels" : "https:\/\/laodongtre.laodong.vn\/,https:\/\/laodongtre.laodong.vn\/dao-tao,https:\/\/laodongtre.laodong.vn\/doi-song,https:\/\/laodongtre.laodong.vn\/tin-tuc,https:\/\/laodongtre.laodong.vn\/ket-noi,https:\/\/laodongtre.laodong.vn\/thi-truong,https:\/\/laodongtre.laodong.vn\/an-choi,https:\/\/laodongtre.laodong.vn\/nhip-dap-trai-tim,https:\/\/laodongtre.laodong.vn\/suc-khoe,https:\/\/laodongtre.laodong.vn\/xe-360,https:\/\/laodongtre.laodong.vn\/giai-tri,https:\/\/laodongtre.laodong.vn\/tu-van-phap-luat",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 129,
+		"url" : "https:\/\/cungcau.vn",
+		"sourceType" : 1,
+		"name" : "cungcau.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 130,
+		"url" : "https:\/\/genk.vn",
+		"sourceType" : 1,
+		"name" : "genk.vn",
+		"channels" : "http:\/\/genk.vn\/,http:\/\/genk.vn\/video.chn,http:\/\/genk.vn\/mobile.chn,http:\/\/genk.vn\/tin-ict.chn,http:\/\/genk.vn\/internet.chn,http:\/\/genk.vn\/kham-pha.chn,http:\/\/genk.vn\/tra-da-cong-nghe.chn,http:\/\/genk.vn\/thu-thuat.chn,http:\/\/genk.vn\/apps-games.chn,http:\/\/genk.vn\/do-choi-so.chn",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 131,
+		"url" : "https:\/\/bazaarvietnam.vn",
+		"sourceType" : 1,
+		"name" : "bazaarvietnam.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 132,
+		"url" : "https:\/\/giadinhmoi.vn",
+		"sourceType" : 1,
+		"name" : "giadinhmoi.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 133,
+		"url" : "https:\/\/baotintuc.vn",
+		"sourceType" : 1,
+		"name" : "baotintuc.vn",
+		"channels" : "https:\/\/baotintuc.vn\/,https:\/\/baotintuc.vn\/thoi-su-472ct0.htm,https:\/\/baotintuc.vn\/the-gioi-130ct0.htm,https:\/\/baotintuc.vn\/kinh-te-128ct0.htm,https:\/\/baotintuc.vn\/xa-hoi-129ct0.htm,https:\/\/baotintuc.vn\/phap-luat-475ct0.htm,https:\/\/baotintuc.vn\/giao-duc-135ct0.htm,https:\/\/baotintuc.vn\/ho-so-133ct0.htm,https:\/\/baotintuc.vn\/quan-su-514ct0.htm,https:\/\/baotintuc.vn\/the-thao-273ct0.htm,https:\/\/baotintuc.vn\/van-hoa-158ct0.htm,https:\/\/baotintuc.vn\/khoa-hoc-cong-nghe-131ct0.htm,https:\/\/baotintuc.vn\/dan-toc-151ct0.htm,https:\/\/baotintuc.vn\/video.htm,https:\/\/baotintuc.vn\/suc-khoe-564ct0.htm,https:\/\/baotintuc.vn\/ban-doc-583ct0.htm,https:\/\/baotintuc.vn\/goc-nhin-497ct0.htm,https:\/\/baotintuc.vn\/megastory.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 134,
+		"url" : "https:\/\/phatgiao.org.vn",
+		"sourceType" : 1,
+		"name" : "phatgiao.org.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 135,
+		"url" : "https:\/\/congan.com.vn",
+		"sourceType" : 1,
+		"name" : "congan.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 136,
+		"url" : "https:\/\/svvn.tienphong.vn",
+		"sourceType" : 1,
+		"name" : "svvn.tienphong.vn",
+		"channels" : "https:\/\/svvn.tienphong.vn\/svvn-doan-hoi\/,https:\/\/svvn.tienphong.vn\/svvn-song-tre\/,https:\/\/svvn.tienphong.vn\/svvn-giao-duc\/,https:\/\/svvn.tienphong.vn\/svvn-goc-nhin\/,https:\/\/svvn.tienphong.vn\/svvn-yeu\/,https:\/\/svvn.tienphong.vn\/svvn-giai-tri\/,https:\/\/svvn.tienphong.vn\/,https:\/\/svvn.tienphong.vn\/svvn-guong-mat-sinh-vien\/,https:\/\/svvn.tienphong.vn\/svvn-cong-nghe\/,https:\/\/svvn.tienphong.vn\/svvn-video\/,https:\/\/svvn.tienphong.vn\/svvn-song-tich-cuc\/,https:\/\/svvn.tienphong.vn\/svvn-mua-ban\/,https:\/\/svvn.tienphong.vn\/svvn-can-biet\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 137,
+		"url" : "https:\/\/dulich.tuoitre.vn",
+		"sourceType" : 1,
+		"name" : "dulich.tuoitre.vn",
+		"channels" : "http:\/\/dulich.tuoitre.vn\/,http:\/\/dulich.tuoitre.vn\/nhung-mien-dat-la.htm,http:\/\/dulich.tuoitre.vn\/trai-nghiem-kham-pha.htm,http:\/\/dulich.tuoitre.vn\/am-thuc.htm,http:\/\/dulich.tuoitre.vn\/van-hoa.htm,http:\/\/dulich.tuoitre.vn\/goc-anh-lu-hanh.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 138,
+		"url" : "https:\/\/mgn.vn",
+		"sourceType" : 1,
+		"name" : "mgn.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 139,
+		"url" : "https:\/\/ngaynay.vn",
+		"sourceType" : 1,
+		"name" : "ngaynay.vn",
+		"channels" : "http:\/\/ngaynay.vn\/xa-hoi\/,http:\/\/ngaynay.vn\/the-gioi\/,http:\/\/ngaynay.vn\/kinh-te\/,http:\/\/ngaynay.vn\/phap-luat\/,http:\/\/ngaynay.vn\/moi-truong\/,http:\/\/ngaynay.vn\/suc-khoe\/,http:\/\/ngaynay.vn\/du-lich\/,http:\/\/ngaynay.vn\/giai-tri\/,http:\/\/ngaynay.vn\/video\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 140,
+		"url" : "https:\/\/luxuo.vn",
+		"sourceType" : 1,
+		"name" : "luxuo.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 141,
+		"url" : "https:\/\/elle.vn",
+		"sourceType" : 1,
+		"name" : "elle.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 142,
+		"url" : "https:\/\/techtimesvn.com",
+		"sourceType" : 1,
+		"name" : "techtimesvn.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 143,
+		"url" : "https:\/\/thoidai.com.vn",
+		"sourceType" : 1,
+		"name" : "thoidai.com.vn",
+		"channels" : "https:\/\/thoidai.com.vn\/,https:\/\/thoidai.com.vn\/thoi-dai,https:\/\/thoidai.com.vn\/huu-nghi,https:\/\/thoidai.com.vn\/gia-dinh-viet,https:\/\/thoidai.com.vn\/bo-coi-bien-dao,https:\/\/thoidai.com.vn\/viet-kieu,https:\/\/thoidai.com.vn\/quoc-te,https:\/\/thoidai.com.vn\/kinh-te,https:\/\/thoidai.com.vn\/khoe-dep,https:\/\/thoidai.com.vn\/van-hoa-the-thao,https:\/\/thoidai.com.vn\/phap-luat,https:\/\/thoidai.com.vn\/truyen-hinh",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 144,
+		"url" : "https:\/\/atgt.vn",
+		"sourceType" : 1,
+		"name" : "atgt.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 145,
+		"url" : "https:\/\/vanvn.vn",
+		"sourceType" : 1,
+		"name" : "vanvn.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 146,
+		"url" : "https:\/\/diendandoanhnghiep.vn",
+		"sourceType" : 1,
+		"name" : "diendandoanhnghiep.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 147,
+		"url" : "https:\/\/tinnhanhchungkhoan.vn",
+		"sourceType" : 1,
+		"name" : "tinnhanhchungkhoan.vn",
+		"channels" : "https:\/\/tinnhanhchungkhoan.vn\/,https:\/\/tinnhanhchungkhoan.vn\/chung-khoan\/,https:\/\/tinnhanhchungkhoan.vn\/thoi-su\/,https:\/\/tinnhanhchungkhoan.vn\/thuong-truong\/,https:\/\/tinnhanhchungkhoan.vn\/doanh-nghiep\/,https:\/\/tinnhanhchungkhoan.vn\/bao-hiem\/,https:\/\/tinnhanhchungkhoan.vn\/tien-te\/,https:\/\/tinnhanhchungkhoan.vn\/so-hoa\/,https:\/\/tinnhanhchungkhoan.vn\/phap-luat\/,https:\/\/tinnhanhchungkhoan.vn\/quoc-te\/,https:\/\/tinnhanhchungkhoan.vn\/tai-chinh\/,https:\/\/tinnhanhchungkhoan.vn\/cuoc-song\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 148,
+		"url" : "https:\/\/thethao247.vn",
+		"sourceType" : 1,
+		"name" : "thethao247.vn",
+		"channels" : "https:\/\/thethao247.vn,https:\/\/thethao247.vn\/bong-da-viet-nam-c1\/,https:\/\/thethao247.vn\/bong-da-quoc-te-c2\/,https:\/\/thethao247.vn\/tin-chuyen-nhuong-c14\/,https:\/\/thethao247.vn\/the-thao-tong-hop-c5\/,https:\/\/thethao247.vn\/bong-chuyen-c45\/,https:\/\/thethao247.vn\/vo-thuat-c228\/,https:\/\/thethao247.vn\/xe-co-c191\/,https:\/\/thethao247.vn\/video-c6\/,https:\/\/thethao247.vn\/esports-c180\/,https:\/\/thethao247.vn\/can-biet-c123\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 149,
+		"url" : "https:\/\/2dep.vn",
+		"sourceType" : 1,
+		"name" : "2dep.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 150,
+		"url" : "https:\/\/thoibaotaichinhvietnam.vn",
+		"sourceType" : 1,
+		"name" : "thoibaotaichinhvietnam.vn",
+		"channels" : "https:\/\/thoibaotaichinhvietnam.vn\/,https:\/\/thoibaotaichinhvietnam.vn\/kinh-te,https:\/\/thoibaotaichinhvietnam.vn\/thue-hai-quan,https:\/\/thoibaotaichinhvietnam.vn\/chung-khoan,https:\/\/thoibaotaichinhvietnam.vn\/ngan-hang,https:\/\/thoibaotaichinhvietnam.vn\/kinh-doanh,https:\/\/thoibaotaichinhvietnam.vn\/bat-dong-san,https:\/\/thoibaotaichinhvietnam.vn\/podcasts",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 151,
+		"url" : "https:\/\/cuoituan.tuoitre.vn",
+		"sourceType" : 1,
+		"name" : "cuoituan.tuoitre.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 152,
+		"url" : "http:\/\/baovanhoa.vn",
+		"sourceType" : 1,
+		"name" : "baovanhoa.vn",
+		"channels" : "http:\/\/baovanhoa.vn\/chinh-tri,http:\/\/baovanhoa.vn\/van-hoa,http:\/\/baovanhoa.vn\/du-lich,http:\/\/baovanhoa.vn\/the-thao,http:\/\/baovanhoa.vn\/giai-tri,http:\/\/baovanhoa.vn\/the-gioi,http:\/\/baovanhoa.vn\/kinh-te,http:\/\/baovanhoa.vn\/gia-%C4%91inh,http:\/\/baovanhoa.vn\/video,http:\/\/baovanhoa.vn\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 153,
+		"url" : "https:\/\/dulich.laodong.vn",
+		"sourceType" : 1,
+		"name" : "dulich.laodong.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 154,
+		"url" : "https:\/\/thanhtra.com.vn",
+		"sourceType" : 1,
+		"name" : "thanhtra.com.vn",
+		"channels" : "http:\/\/thanhtra.com.vn\/,http:\/\/thanhtra.com.vn\/theo-dong-thoi-cuoc_t113c68,http:\/\/thanhtra.com.vn\/chinh-tri_t113c1014,http:\/\/thanhtra.com.vn\/thanh-tra_t113c2,http:\/\/thanhtra.com.vn\/kinh-te_t113c5,http:\/\/thanhtra.com.vn\/xa-hoi_t113c34,http:\/\/thanhtra.com.vn\/tin-tuc-chong-tham-nhung_t224c1075,http:\/\/thanhtra.com.vn\/van-hoa-giai-tri_t113c20,http:\/\/thanhtra.com.vn\/the-thao_t113c1154,http:\/\/thanhtra.com.vn\/quoc-te_t113c26,http:\/\/thanhtra.com.vn\/phap-luat\/an-ninh-trat-tu_t113c1144,http:\/\/thanhtra.com.vn\/phap-luat\/hoan-thien-the-che_t113c1160",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 155,
+		"url" : "https:\/\/theleader.vn",
+		"sourceType" : 1,
+		"name" : "theleader.vn",
+		"channels" : "http:\/\/theleader.vn\/,http:\/\/theleader.vn\/thi-truong.htm,http:\/\/theleader.vn\/tai-chinh.htm,http:\/\/theleader.vn\/doanh-nghiep.htm,http:\/\/theleader.vn\/bat-dong-san.htm,http:\/\/theleader.vn\/leader-talk.htm,http:\/\/theleader.vn\/tieu-diem-247.htm,http:\/\/theleader.vn\/dien-dan-quan-tri.htm,http:\/\/theleader.vn\/ong-kinh-theleader.htm,http:\/\/theleader.vn\/quoc-te.htm,http:\/\/theleader.vn\/dau-tu.htm,http:\/\/theleader.vn\/phat-trien-ben-vung.htm,http:\/\/theleader.vn\/nhip-cau-kinh-doanh.htm,http:\/\/theleader.vn\/kinh-te-bien.htm,http:\/\/theleader.vn\/video.htm,http:\/\/theleader.vn\/phap-luat.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 156,
+		"url" : "https:\/\/vietq.vn",
+		"sourceType" : 1,
+		"name" : "vietq.vn",
+		"channels" : "https:\/\/vietq.vn\/thoi-su-c1\/,https:\/\/vietq.vn\/khoa-hoc-cong-nghe-c6\/,https:\/\/vietq.vn\/kinh-doanh-c4\/,https:\/\/vietq.vn\/nang-suat-chat-luong-c83\/,https:\/\/vietq.vn\/doi-song-c5\/,https:\/\/vietq.vn\/video\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 157,
+		"url" : "https:\/\/saodaily.com",
+		"sourceType" : 1,
+		"name" : "saodaily.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 158,
+		"url" : "https:\/\/tapchigiaothong.vn",
+		"sourceType" : 1,
+		"name" : "tapchigiaothong.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 159,
+		"url" : "https:\/\/etime.danviet.vn",
+		"sourceType" : 1,
+		"name" : "etime.danviet.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 160,
+		"url" : "https:\/\/tamviet.tienphong.vn",
+		"sourceType" : 1,
+		"name" : "tamviet.tienphong.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 161,
+		"url" : "https:\/\/laodongthudo.vn",
+		"sourceType" : 1,
+		"name" : "laodongthudo.vn",
+		"channels" : "https:\/\/laodongthudo.vn\/,http:\/\/laodongthudo.vn\/thoi-su,http:\/\/laodongthudo.vn\/cong-doan,http:\/\/laodongthudo.vn\/dan-sinh,http:\/\/laodongthudo.vn\/kinh-te,http:\/\/laodongthudo.vn\/phap-luat,http:\/\/laodongthudo.vn\/ha-noi,http:\/\/laodongthudo.vn\/giao-duc,http:\/\/laodongthudo.vn\/suc-khoe,http:\/\/laodongthudo.vn\/bao-ve-tieu-dung,http:\/\/laodongthudo.vn\/viec-lam,http:\/\/laodongthudo.vn\/giai-tri,http:\/\/laodongthudo.vn\/xe-cong-nghe,http:\/\/laodongthudo.vn\/clip,http:\/\/laodongthudo.vn\/cong-dong,https:\/\/laodongthudo.vn\/video",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 162,
+		"url" : "https:\/\/ictvietnam.vn",
+		"sourceType" : 1,
+		"name" : "ictvietnam.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 163,
+		"url" : "https:\/\/khoahocphattrien.vn",
+		"sourceType" : 1,
+		"name" : "khoahocphattrien.vn",
+		"channels" : "http:\/\/khoahocphattrien.vn\/,http:\/\/khoahocphattrien.vn\/p1c882\/tin-tuc.htm,http:\/\/khoahocphattrien.vn\/p1c785\/chinh-sach.htm,http:\/\/khoahocphattrien.vn\/p1c160\/khoa-hoc.htm,http:\/\/khoahocphattrien.vn\/p1c859\/cong-nghe.htm,http:\/\/khoahocphattrien.vn\/p1c879\/kham-pha.htm,http:\/\/khoahocphattrien.vn\/p1c784\/songkhoe.htm,http:\/\/khoahocphattrien.vn\/p1c937\/dia-phuong.htm,http:\/\/khoahocphattrien.vn\/p1c936\/anhclip.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 164,
+		"url" : "https:\/\/ictnews.vietnamnet.vn",
+		"sourceType" : 1,
+		"name" : "ictnews.vietnamnet.vn",
+		"channels" : "https:\/\/ictnews.vietnamnet.vn,https:\/\/ictnews.vietnamnet.vn\/thoi-su,https:\/\/ictnews.vietnamnet.vn\/vien-thong\/,https:\/\/ictnews.vietnamnet.vn\/internet,https:\/\/ictnews.vietnamnet.vn\/cntt,https:\/\/ictnews.vietnamnet.vn\/kinh-doanh,https:\/\/ictnews.vietnamnet.vn\/the-gioi-so,https:\/\/ictnews.vietnamnet.vn\/game\/,https:\/\/ictnews.vietnamnet.vn\/khoi-nghiep,https:\/\/ictnews.vietnamnet.vn\/cong-nghe-360,https:\/\/ictnews.vietnamnet.vn\/video-cong-nghe,https:\/\/ictnews.vietnamnet.vn\/bao-mat\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 165,
+		"url" : "https:\/\/nhaquanly.vn",
+		"sourceType" : 1,
+		"name" : "nhaquanly.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 166,
+		"url" : "https:\/\/bongda.com.vn",
+		"sourceType" : 1,
+		"name" : "bongda.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 167,
+		"url" : "https:\/\/video.vnexpress.net",
+		"sourceType" : 1,
+		"name" : "video.vnexpress.net",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 168,
+		"url" : "https:\/\/qdnd.vn",
+		"sourceType" : 1,
+		"name" : "qdnd.vn",
+		"channels" : "http:\/\/qdnd.vn\/qdndsite\/en-us\/97\/72\/182\/155\/default.aspx,http:\/\/qdnd.vn\/qdndsite\/en-us\/97\/72\/182\/156\/default.aspx,http:\/\/qdnd.vn\/qdndsite\/en-us\/97\/72\/182\/157\/default.aspx,http:\/\/qdnd.vn\/qdndsite\/en-us\/97\/72\/182\/158\/default.aspx,http:\/\/qdnd.vn\/qdndsite\/en-us\/97\/72\/182\/159\/default.aspx,http:\/\/qdnd.vn\/qdndsite\/en-us\/97\/72\/183\/161\/default.aspx,http:\/\/qdnd.vn\/qdndsite\/en-us\/97\/72\/183\/162\/default.aspx,http:\/\/qdnd.vn\/qdndsite\/en-us\/97\/72\/184\/164\/default.aspx,http:\/\/qdnd.vn\/qdndsite\/en-us\/97\/72\/184\/165\/default.aspx",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 169,
+		"url" : "https:\/\/video.kenh14.vn",
+		"sourceType" : 1,
+		"name" : "video.kenh14.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 170,
+		"url" : "https:\/\/baodansinh.vn",
+		"sourceType" : 1,
+		"name" : "baodansinh.vn",
+		"channels" : "http:\/\/baodansinh.vn\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 171,
+		"url" : "https:\/\/giadinhonline.vn",
+		"sourceType" : 1,
+		"name" : "giadinhonline.vn",
+		"channels" : "https:\/\/giadinhonline.vn\/gia-dinh\/,https:\/\/giadinhonline.vn\/song-plus\/,https:\/\/giadinhonline.vn\/kinh-te\/,https:\/\/giadinhonline.vn\/giai-tri\/,https:\/\/giadinhonline.vn\/,https:\/\/giadinhonline.vn\/ngam\/,https:\/\/giadinhonline.vn\/thong-tin-su-kien\/,https:\/\/giadinhonline.vn\/phut-sao-long\/,https:\/\/giadinhonline.vn\/media\/,https:\/\/giadinhonline.vn\/video\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 172,
+		"url" : "https:\/\/petrotimes.vn",
+		"sourceType" : 1,
+		"name" : "petrotimes.vn",
+		"channels" : "http:\/\/petrotimes.vn,https:\/\/petrotimes.vn\/kinh-te,https:\/\/petrotimes.vn\/xa-hoi-phap-luat,https:\/\/petrotimes.vn\/dau-khi-toan-cau,https:\/\/petrotimes.vn\/thoi-su,https:\/\/petrotimes.vn\/dau-tu-nang-luong,https:\/\/petrotimes.vn\/bat-dong-san,https:\/\/petrotimes.vn\/quoc-te,https:\/\/petrotimes.vn\/van-hoa-giai-tri",
+		"settings" : "{   \"bodyExcSelector\": \". boxTinLQuan\" }",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 173,
+		"url" : "https:\/\/vietnambusinessinsider.vn",
+		"sourceType" : 1,
+		"name" : "vietnambusinessinsider.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 174,
+		"url" : "https:\/\/luxlifestyle.vn",
+		"sourceType" : 1,
+		"name" : "luxlifestyle.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 175,
+		"url" : "https:\/\/sgtiepthi.vn",
+		"sourceType" : 1,
+		"name" : "sgtiepthi.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 176,
+		"url" : "https:\/\/dangcongsan.vn",
+		"sourceType" : 1,
+		"name" : "dangcongsan.vn",
+		"channels" : "https:\/\/dangcongsan.vn\/thoi-su,https:\/\/dangcongsan.vn\/lanh-dao-dang-nha-nuoc,https:\/\/dangcongsan.vn\/xay-dung-dang,https:\/\/dangcongsan.vn\/tu-tuong-van-hoa,https:\/\/dangcongsan.vn\/kinh-te,https:\/\/dangcongsan.vn\/xa-hoi,https:\/\/dangcongsan.vn\/khoa-giao,https:\/\/dangcongsan.vn\/phap-luat,https:\/\/dangcongsan.vn\/the-thao,https:\/\/dangcongsan.vn\/doi-ngoai,https:\/\/dangcongsan.vn\/,https:\/\/dangcongsan.vn\/the-gioi,https:\/\/dangcongsan.vn\/bien-dao-viet-nam,https:\/\/dangcongsan.vn\/ban-doc,https:\/\/dangcongsan.vn\/cung-ban-luan,https:\/\/dangcongsan.vn\/noi-hay-dung",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 177,
+		"url" : "https:\/\/petrovietnam.petrotimes.vn",
+		"sourceType" : 1,
+		"name" : "petrovietnam.petrotimes.vn",
+		"channels" : "http:\/\/petrovietnam.petrotimes.vn\/hoi-dau-khi-vn,http:\/\/petrovietnam.petrotimes.vn",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 178,
+		"url" : "https:\/\/sport5.vn",
+		"sourceType" : 1,
+		"name" : "sport5.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 179,
+		"url" : "https:\/\/ofnews.vn",
+		"sourceType" : 1,
+		"name" : "ofnews.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 180,
+		"url" : "https:\/\/nguoidothi.net.vn",
+		"sourceType" : 1,
+		"name" : "nguoidothi.net.vn",
+		"channels" : "http:\/\/nguoidothi.net.vn\/,http:\/\/nguoidothi.net.vn\/thoi-su,http:\/\/nguoidothi.net.vn\/nhip-song-do-thi,http:\/\/nguoidothi.net.vn\/the-gioi,http:\/\/nguoidothi.net.vn\/moi-truong,http:\/\/nguoidothi.net.vn\/di-san,http:\/\/nguoidothi.net.vn\/kinh-doanh,http:\/\/nguoidothi.net.vn\/van-hoa-giai-tri,http:\/\/nguoidothi.net.vn\/loi-song,http:\/\/nguoidothi.net.vn\/giao-duc,http:\/\/nguoidothi.net.vn\/am-thuc,http:\/\/nguoidothi.net.vn\/suc-khoe,http:\/\/nguoidothi.net.vn\/du-lich",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 181,
+		"url" : "https:\/\/otosaigon.com",
+		"sourceType" : 1,
+		"name" : "otosaigon.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 182,
+		"url" : "https:\/\/theinfluencer.vn",
+		"sourceType" : 1,
+		"name" : "theinfluencer.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 183,
+		"url" : "https:\/\/doanhnhanplus.vn",
+		"sourceType" : 1,
+		"name" : "doanhnhanplus.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 184,
+		"url" : "https:\/\/homedecorplus.vn",
+		"sourceType" : 1,
+		"name" : "homedecorplus.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 185,
+		"url" : "https:\/\/thuonggiathitruong.vn",
+		"sourceType" : 1,
+		"name" : "thuonggiathitruong.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 186,
+		"url" : "https:\/\/saigoneer.com",
+		"sourceType" : 1,
+		"name" : "saigoneer.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 187,
+		"url" : "https:\/\/khoahocdoisong.vn",
+		"sourceType" : 1,
+		"name" : "khoahocdoisong.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 188,
+		"url" : "https:\/\/webtretho.com",
+		"sourceType" : 1,
+		"name" : "webtretho.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 189,
+		"url" : "https:\/\/xehay.vn",
+		"sourceType" : 1,
+		"name" : "xehay.vn",
+		"channels" : "https:\/\/xehay.vn\/,https:\/\/xehay.vn\/tin-tuc,https:\/\/xehay.vn\/tu-van,https:\/\/xehay.vn\/cong-nghe,https:\/\/xehay.vn\/bang-gia,https:\/\/xehay.vn\/xe-va-tho,https:\/\/xehay.vn\/o-to-moi,https:\/\/xehay.vn\/the-thao,https:\/\/xehay.vn\/trien-lam-o-to-273,https:\/\/xehay.vn\/xe-may-moi,https:\/\/xehay.vn\/danh-gia-xe,https:\/\/xehay.vn\/video",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 190,
+		"url" : "https:\/\/ngoisao.vnexpress.net",
+		"sourceType" : 1,
+		"name" : "ngoisao.vnexpress.net",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 191,
+		"url" : "https:\/\/thoibaonganhang.vn",
+		"sourceType" : 1,
+		"name" : "thoibaonganhang.vn",
+		"channels" : "http:\/\/thoibaonganhang.vn\/,http:\/\/thoibaonganhang.vn\/su-kien,http:\/\/thoibaonganhang.vn\/tai-chinh-tien-te,http:\/\/thoibaonganhang.vn\/dich-vu-ngan-hang-hien-dai,http:\/\/thoibaonganhang.vn\/bat-dong-san,http:\/\/thoibaonganhang.vn\/chung-khoan,http:\/\/thoibaonganhang.vn\/doanh-nghiep-doanh-nhan,http:\/\/thoibaonganhang.vn\/nong-nghiep-nong-thon,http:\/\/thoibaonganhang.vn\/thi-truong,http:\/\/thoibaonganhang.vn\/van-hoa-xa-hoi,http:\/\/thoibaonganhang.vn\/quoc-te",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 300
+	},
+	{
+		"id" : 193,
+		"url" : "http:\/\/baoapbac.vn",
+		"sourceType" : 1,
+		"name" : "baoapbac.vn",
+		"channels" : "http:\/\/baoapbac.vn\/,http:\/\/baoapbac.vn\/chinh-tri\/,http:\/\/baoapbac.vn\/kinh-te\/,http:\/\/baoapbac.vn\/xa-hoi\/,http:\/\/baoapbac.vn\/phap-luat-an-ninh-trat-tu\/,http:\/\/baoapbac.vn\/van-hoa-nghe-thuat\/,http:\/\/baoapbac.vn\/the-thao\/,http:\/\/baoapbac.vn\/giao-duc\/,http:\/\/baoapbac.vn\/suc-khoe-y-te\/,http:\/\/baoapbac.vn\/quoc-te\/,http:\/\/baoapbac.vn\/khoa-hoc-doi-song\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 194,
+		"url" : "http:\/\/baobacgiang.com.vn",
+		"sourceType" : 1,
+		"name" : "baobacgiang.com.vn",
+		"channels" : "http:\/\/baobacgiang.com.vn\/,http:\/\/baobacgiang.com.vn\/bg\/chinh-tri\/,http:\/\/baobacgiang.com.vn\/bg\/kinh-te\/,http:\/\/baobacgiang.com.vn\/bg\/xa-hoi\/,http:\/\/baobacgiang.com.vn\/bg\/doi-song\/,http:\/\/baobacgiang.com.vn\/bg\/van-hoa\/,http:\/\/baobacgiang.com.vn\/bg\/the-thao\/,http:\/\/baobacgiang.com.vn\/bg\/giao-duc\/,http:\/\/baobacgiang.com.vn\/bg\/dulichbg\/,http:\/\/baobacgiang.com.vn\/bg\/the-gioi\/,http:\/\/baobacgiang.com.vn\/bg\/tin-trong-tinh\/,http:\/\/baobacgiang.com.vn\/bg\/moi-nhat\/,http:\/\/baobacgiang.com.vn\/bg\/phap-luat\/,http:\/\/baobacgiang.com.vn\/bg\/an-toan-giao-thong\/,http:\/\/baobacgiang.com.vn\/bg\/nhip-song-tre\/,http:\/\/baobacgiang.com.vn\/bg\/bac-giang-media\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 195,
+		"url" : "http:\/\/baoninhthuan.com.vn",
+		"sourceType" : 1,
+		"name" : "baoninhthuan.com.vn",
+		"channels" : "http:\/\/baoninhthuan.com.vn\/,http:\/\/baoninhthuan.com.vn\/news\/p1c24\/chinh-tri.htm,http:\/\/baoninhthuan.com.vn\/news\/p1c25\/kinh-te.htm,http:\/\/baoninhthuan.com.vn\/news\/p1c26\/the-gioi.htm,http:\/\/baoninhthuan.com.vn\/news\/p1c27\/the-thao.htm,http:\/\/baoninhthuan.com.vn\/news\/p1c28\/giao-duc.htm,http:\/\/baoninhthuan.com.vn\/news\/p1c29\/van-hoa.htm,http:\/\/baoninhthuan.com.vn\/news\/p1c154\/kh-cn.htm,http:\/\/baoninhthuan.com.vn\/news\/p1c30\/xa-hoi.htm,http:\/\/baoninhthuan.com.vn\/news\/p1c155\/phap-luat.htm,http:\/\/baoninhthuan.com.vn\/news\/p1c31\/toa-soan-ban-doc.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 196,
+		"url" : "https:\/\/advertisingvietnam.com",
+		"sourceType" : 1,
+		"name" : "advertisingvietnam.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 197,
+		"url" : "https:\/\/autonews.vneconomy.vn",
+		"sourceType" : 1,
+		"name" : "autonews.vneconomy.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 198,
+		"url" : "https:\/\/baobariavungtau.com.vn",
+		"sourceType" : 1,
+		"name" : "baobariavungtau.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 199,
+		"url" : "https:\/\/baobinhphuoc.com.vn",
+		"sourceType" : 1,
+		"name" : "baobinhphuoc.com.vn",
+		"channels" : "https:\/\/baobinhphuoc.com.vn\/,https:\/\/baobinhphuoc.com.vn\/chuyen-muc\/1\/chinh-tri,https:\/\/baobinhphuoc.com.vn\/chuyen-muc\/4\/kinh-te,https:\/\/baobinhphuoc.com.vn\/chuyen-muc\/9\/xa-hoi,https:\/\/baobinhphuoc.com.vn\/chuyen-muc\/15\/phap-luat,https:\/\/baobinhphuoc.com.vn\/chuyen-muc\/72\/giao-duc,https:\/\/baobinhphuoc.com.vn\/chuyen-muc\/28\/cong-nghe,https:\/\/baobinhphuoc.com.vn\/chuyen-muc\/19\/van-hoa,https:\/\/baobinhphuoc.com.vn\/chuyen-muc\/386\/kinh-te-quoc-phong,https:\/\/baobinhphuoc.com.vn\/chuyen-muc\/18\/the-thao,https:\/\/baobinhphuoc.com.vn\/chuyen-muc\/24\/quoc-te,https:\/\/baobinhphuoc.com.vn\/chuyen-muc\/253\/giai-tri,https:\/\/baobinhphuoc.com.vn\/multimedia",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 200,
+		"url" : "https:\/\/baobinhthuan.com.vn",
+		"sourceType" : 1,
+		"name" : "baobinhthuan.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 201,
+		"url" : "https:\/\/baocamau.com.vn",
+		"sourceType" : 1,
+		"name" : "baocamau.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 202,
+		"url" : "https:\/\/baocantho.com.vn",
+		"sourceType" : 1,
+		"name" : "baocantho.com.vn",
+		"channels" : "http:\/\/baocantho.com.vn\/,http:\/\/baocantho.com.vn\/thoi-su\/,http:\/\/baocantho.com.vn\/chinh-tri\/,http:\/\/baocantho.com.vn\/kinh-te\/,http:\/\/baocantho.com.vn\/xa-hoi-phap-luat\/,http:\/\/baocantho.com.vn\/quoc-phong-an-ninh\/,http:\/\/baocantho.com.vn\/the-gioi\/,http:\/\/baocantho.com.vn\/giao-duc\/,http:\/\/baocantho.com.vn\/y-te\/,http:\/\/baocantho.com.vn\/van-hoa-giai-tri\/,http:\/\/baocantho.com.vn\/the-thao\/,http:\/\/baocantho.com.vn\/cong-nghe\/,http:\/\/baocantho.com.vn\/du-lich\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 203,
+		"url" : "https:\/\/baochinhphu.vn",
+		"sourceType" : 1,
+		"name" : "baochinhphu.vn",
+		"channels" : "https:\/\/baochinhphu.vn\/,https:\/\/baochinhphu.vn\/chinh-tri\/442.vgp,https:\/\/baochinhphu.vn\/kinh-te\/7.vgp,https:\/\/baochinhphu.vn\/van-hoa\/249.vgp,https:\/\/baochinhphu.vn\/xa-hoi\/449.vgp,https:\/\/baochinhphu.vn\/khoa-giao\/451.vgp,https:\/\/baochinhphu.vn\/quoc-te\/6.vgp,https:\/\/baochinhphu.vn\/hoi-nhap\/453.vgp,https:\/\/baochinhphu.vn\/quoc-te.htm,https:\/\/baochinhphu.vn\/khoa-giao.htm,https:\/\/baochinhphu.vn\/van-hoa.htm,https:\/\/baochinhphu.vn\/chinh-tri.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 204,
+		"url" : "https:\/\/baodantoc.vn",
+		"sourceType" : 1,
+		"name" : "baodantoc.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 205,
+		"url" : "https:\/\/baodongkhoi.vn",
+		"sourceType" : 1,
+		"name" : "baodongkhoi.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 206,
+		"url" : "https:\/\/baodongthap.vn",
+		"sourceType" : 1,
+		"name" : "baodongthap.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 207,
+		"url" : "https:\/\/baogialai.com.vn",
+		"sourceType" : 1,
+		"name" : "baogialai.com.vn",
+		"channels" : "http:\/\/baogialai.com.vn\/,http:\/\/baogialai.com.vn\/channel\/8205\/,http:\/\/baogialai.com.vn\/channel\/581\/,http:\/\/baogialai.com.vn\/channel\/722\/,http:\/\/baogialai.com.vn\/channel\/721\/,http:\/\/baogialai.com.vn\/channel\/742\/,http:\/\/baogialai.com.vn\/channel\/12359\/,http:\/\/baogialai.com.vn\/channel\/1602\/,http:\/\/baogialai.com.vn\/channel\/745\/,http:\/\/baogialai.com.vn\/channel\/744\/,http:\/\/baogialai.com.vn\/channel\/12362\/,http:\/\/baogialai.com.vn\/channel\/12392\/,http:\/\/baogialai.com.vn\/channel\/8210\/,http:\/\/baogialai.com.vn\/channel\/12371\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 208,
+		"url" : "https:\/\/baohungyen.vn",
+		"sourceType" : 1,
+		"name" : "baohungyen.vn",
+		"channels" : "http:\/\/baohungyen.vn\/,http:\/\/baohungyen.vn\/chinh-tri\/,http:\/\/baohungyen.vn\/kinh-te\/,http:\/\/baohungyen.vn\/xa-hoi\/,http:\/\/baohungyen.vn\/van-hoa\/,http:\/\/baohungyen.vn\/the-thao\/,http:\/\/baohungyen.vn\/an-ninh-quoc-phong\/,http:\/\/baohungyen.vn\/quoc-te\/,http:\/\/baohungyen.vn\/khoa-hoc-cong-nghe\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 209,
+		"url" : "https:\/\/baokhanhhoa.vn",
+		"sourceType" : 1,
+		"name" : "baokhanhhoa.vn",
+		"channels" : "https:\/\/baokhanhhoa.vn\/video\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 210,
+		"url" : "https:\/\/baokontum.com.vn",
+		"sourceType" : 1,
+		"name" : "baokontum.com.vn",
+		"channels" : "http:\/\/baokontum.com.vn\/,http:\/\/baokontum.com.vn\/thoi-su-chinh-tri-21.html,http:\/\/baokontum.com.vn\/kinh-te-7.html,http:\/\/baokontum.com.vn\/xa-hoi-8.html,http:\/\/baokontum.com.vn\/van-hoa-the-thao-du-lich-26.html,http:\/\/baokontum.com.vn\/phap-luat-doi-song-27.html,http:\/\/baokontum.com.vn\/dat-nguoi-kon-tum-25.html,http:\/\/baokontum.com.vn\/toa-soan-ban-doc-24.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 211,
+		"url" : "https:\/\/baophuyen.vn",
+		"sourceType" : 1,
+		"name" : "baophuyen.vn",
+		"channels" : "http:\/\/baophuyen.vn\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 212,
+		"url" : "https:\/\/baoquangnam.vn",
+		"sourceType" : 1,
+		"name" : "baoquangnam.vn",
+		"channels" : "http:\/\/baoquangnam.vn\/,http:\/\/baoquangnam.vn\/chinh-tri\/,http:\/\/baoquangnam.vn\/xa-hoi\/,http:\/\/baoquangnam.vn\/kinh-te\/,http:\/\/baoquangnam.vn\/du-lich\/,http:\/\/baoquangnam.vn\/the-thao-giai-tri\/,http:\/\/baoquangnam.vn\/van-hoa-van-nghe\/,http:\/\/baoquangnam.vn\/quoc-phong-an-ninh\/bien-gioi-hai-dao\/,http:\/\/baoquangnam.vn\/toa-soan-ban-doc\/,https:\/\/baoquangnam.vn\/media,https:\/\/baoquangnam.vn\/song-khoe,https:\/\/baoquangnam.vn\/ban-can-biet,https:\/\/baoquangnam.vn\/co-hoi-mua-sam,https:\/\/baoquangnam.vn\/nha-dat,https:\/\/baoquangnam.vn\/moi-truong",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 213,
+		"url" : "https:\/\/baoquangninh.com.vn",
+		"sourceType" : 1,
+		"name" : "baoquangninh.com.vn",
+		"channels" : "https:\/\/baoquangninh.com.vn\/,https:\/\/baoquangninh.com.vn\/chinh-tri,https:\/\/baoquangninh.com.vn\/kinh-te,https:\/\/baoquangninh.com.vn\/xa-hoi,https:\/\/baoquangninh.com.vn\/phap-luat,https:\/\/baoquangninh.com.vn\/the-thao,https:\/\/baoquangninh.com.vn\/du-lich,https:\/\/baoquangninh.com.vn\/van-hoa,https:\/\/baoquangninh.com.vn\/quoc-te,https:\/\/baoquangninh.com.vn\/doi-song,https:\/\/baoquangninh.com.vn\/khoa-hoc-cong-nghe,https:\/\/baoquangninh.com.vn\/ban-doc,https:\/\/baoquangninh.com.vn\/nhip-cau-nhan-ai\/,https:\/\/baoquangninh.com.vn\/multimedia",
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 214,
+		"url" : "https:\/\/baoquocte.vn",
+		"sourceType" : 1,
+		"name" : "baoquocte.vn",
+		"channels" : "https:\/\/baoquocte.vn\/,https:\/\/baoquocte.vn\/thoi-su,https:\/\/baoquocte.vn\/the-gioi,https:\/\/baoquocte.vn\/ngoai-giao,https:\/\/baoquocte.vn\/nguoi-viet,https:\/\/baoquocte.vn\/kinh-te,https:\/\/baoquocte.vn\/xa-hoi,https:\/\/baoquocte.vn\/van-hoa,https:\/\/baoquocte.vn\/the-thao,https:\/\/baoquocte.vn\/khoa-hoc-cong-nghe,https:\/\/baoquocte.vn\/bien-dong-247,https:\/\/baoquocte.vn\/kinh-te\/thuong-hieu-san-pham,https:\/\/baoquocte.vn\/xa-hoi\/xo-so-hom-nay,https:\/\/baoquocte.vn\/xa-hoi\/doi-song,https:\/\/baoquocte.vn\/giai-tri,https:\/\/baoquocte.vn\/o-to",
+		"settings" : "{   \"bodyExcSelector\": \".article,.bx-cat-content,.__mb_article_in_image,.bx-cat-content,.x-grid-detail-bottom\" }",
+		"enable" : 0,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 215,
+		"url" : "https:\/\/baothainguyen.vn",
+		"sourceType" : 1,
+		"name" : "baothainguyen.vn",
+		"channels" : "https:\/\/baothainguyen.vn\/,https:\/\/baothainguyen.vn\/chuyen-muc\/thoi-su-trong-tinh_205.html,https:\/\/baothainguyen.vn\/chuyen-muc\/chinh-tri_97.html,https:\/\/baothainguyen.vn\/chuyen-muc\/kinh-te_108.html,https:\/\/baothainguyen.vn\/chuyen-muc\/xa-hoi_85.html,https:\/\/baothainguyen.vn\/chuyen-muc\/van-hoa_98.html,https:\/\/baothainguyen.vn\/chuyen-muc\/giao-duc_100.html,https:\/\/baothainguyen.vn\/chuyen-muc\/phap-luat_101.html,https:\/\/baothainguyen.vn\/chuyen-muc\/the-thao_83.html,https:\/\/baothainguyen.vn\/chuyen-muc\/khoa-hoc-cn_99.html,https:\/\/baothainguyen.vn\/chuyen-muc\/giao-thong_103.html,https:\/\/baothainguyen.vn\/chuyen-muc\/net-dep-doi-thuong_116.html,https:\/\/baothainguyen.vn\/chuyen-muc\/nghe-doc-bao-thai-nguyen_47.html,https:\/\/baothainguyen.vn\/chuyen-muc\/nghe-doc-bao-thai-nguyen_47.html,https:\/\/baothainguyen.vn\/chuyen-muc\/audio-bao-thai-nguyen_47.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 216,
+		"url" : "https:\/\/baothanhhoa.vn",
+		"sourceType" : 1,
+		"name" : "baothanhhoa.vn",
+		"channels" : "http:\/\/baothanhhoa.vn\/,http:\/\/baothanhhoa.vn\/thoi-su\/,http:\/\/baothanhhoa.vn\/kinh-te\/,http:\/\/baothanhhoa.vn\/doi-song-xa-hoi\/,http:\/\/baothanhhoa.vn\/the-gioi\/,http:\/\/baothanhhoa.vn\/phap-luat\/,http:\/\/baothanhhoa.vn\/van-hoa-giai-tri\/,http:\/\/baothanhhoa.vn\/the-thao\/,http:\/\/baothanhhoa.vn\/khoa-hoc-cong-nghe\/,http:\/\/baothanhhoa.vn\/xe\/,http:\/\/baothanhhoa.vn\/xay-dung-dang\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 217,
+		"url" : "https:\/\/baothuathienhue.vn",
+		"sourceType" : 1,
+		"name" : "baothuathienhue.vn",
+		"channels" : "https:\/\/baothuathienhue.vn\/,https:\/\/baothuathienhue.vn\/chinh-tri-xa-hoi\/,https:\/\/baothuathienhue.vn\/bien-gioi-bien-dao\/,https:\/\/baothuathienhue.vn\/kinh-te\/,https:\/\/baothuathienhue.vn\/van-hoa-nghe-thuat\/,https:\/\/baothuathienhue.vn\/y-te-suc-khoe\/,https:\/\/baothuathienhue.vn\/giao-duc\/,https:\/\/baothuathienhue.vn\/doi-song\/,https:\/\/baothuathienhue.vn\/the-thao\/,https:\/\/baothuathienhue.vn\/the-gioi\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 218,
+		"url" : "https:\/\/baovinhlong.vn",
+		"sourceType" : 1,
+		"name" : "baovinhlong.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 219,
+		"url" : "https:\/\/batdongsan.com.vn",
+		"sourceType" : 1,
+		"name" : "batdongsan.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 220,
+		"url" : "https:\/\/billboardvn.vn",
+		"sourceType" : 1,
+		"name" : "billboardvn.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 221,
+		"url" : "https:\/\/cafeland.vn",
+		"sourceType" : 1,
+		"name" : "cafeland.vn",
+		"channels" : "https:\/\/cafeland.vn\/,https:\/\/cafeland.vn\/tin-tuc\/,https:\/\/cafeland.vn\/quy-hoach\/,https:\/\/cafeland.vn\/du-an\/,https:\/\/cafeland.vn\/phan-tich\/,https:\/\/cafeland.vn\/xu-huong\/,https:\/\/cafeland.vn\/kien-thuc\/,https:\/\/cafeland.vn\/danh-ba\/,https:\/\/cafeland.vn\/doanh-nhan\/,https:\/\/cafeland.vn\/video\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 222,
+		"url" : "https:\/\/cauthu.com.vn",
+		"sourceType" : 1,
+		"name" : "cauthu.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 223,
+		"url" : "https:\/\/coin68.com",
+		"sourceType" : 1,
+		"name" : "coin68.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 224,
+		"url" : "https:\/\/congnghe.tuoitre.vn",
+		"sourceType" : 1,
+		"name" : "congnghe.tuoitre.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 225,
+		"url" : "https:\/\/congnghe.vn",
+		"sourceType" : 1,
+		"name" : "congnghe.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 226,
+		"url" : "https:\/\/danhgiaxe.com",
+		"sourceType" : 1,
+		"name" : "danhgiaxe.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 227,
+		"url" : "https:\/\/dep.com.vn",
+		"sourceType" : 1,
+		"name" : "dep.com.vn",
+		"channels" : "https:\/\/dep.com.vn,https:\/\/dep.com.vn\/category\/thoi-trang\/,https:\/\/dep.com.vn\/category\/lam-dep\/,https:\/\/dep.com.vn\/category\/song\/,https:\/\/dep.com.vn\/category\/tin-tuc\/,https:\/\/dep.com.vn\/category\/giai-tri\/,https:\/\/dep.com.vn\/magazines\/,https:\/\/dep.com.vn\/category\/dep-kids\/,https:\/\/dep.com.vn\/videos\/,https:\/\/dep.com.vn\/galleries\/,https:\/\/dep.com.vn\/category\/thoi-trang\/mix-match\/,https:\/\/dep.com.vn\/magazines\/,https:\/\/dep.com.vn\/category\/song\/nha\/,https:\/\/dep.com.vn\/category\/song\/am-thuc\/,https:\/\/dep.com.vn\/category\/song\/lifestyle\/woman\/,https:\/\/dep.com.vn\/galleries\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 228,
+		"url" : "https:\/\/doanhnghiephoinhap.vn",
+		"sourceType" : 1,
+		"name" : "doanhnghiephoinhap.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 229,
+		"url" : "https:\/\/doanhnghieptiepthi.vn",
+		"sourceType" : 1,
+		"name" : "doanhnghieptiepthi.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 230,
+		"url" : "https:\/\/forbes.vn",
+		"sourceType" : 1,
+		"name" : "forbes.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 231,
+		"url" : "https:\/\/giaoduc.net.vn",
+		"sourceType" : 1,
+		"name" : "giaoduc.net.vn",
+		"channels" : "https:\/\/giaoduc.net.vn\/giao-duc-24h\/5.gd,https:\/\/giaoduc.net.vn\/kinh-te\/13.gd,https:\/\/giaoduc.net.vn\/du-hoc\/272.gd,https:\/\/giaoduc.net.vn\/suc-khoe-hoc-duong\/11.gd,https:\/\/giaoduc.net.vn\/van-hoa\/20.gd,http:\/\/giaoduc.net.vn\/mostrecent.gd,http:\/\/giaoduc.net.vn\/mostread.gd,https:\/\/giaoduc.net.vn\/,https:\/\/giaoduc.net.vn\/tieu-diem\/453.gd",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 232,
+		"url" : "https:\/\/heritagevietnamairlines.com",
+		"sourceType" : 1,
+		"name" : "heritagevietnamairlines.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 233,
+		"url" : "https:\/\/khoahoc.tv",
+		"sourceType" : 1,
+		"name" : "khoahoc.tv",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 234,
+		"url" : "https:\/\/kienviet.net",
+		"sourceType" : 1,
+		"name" : "kienviet.net",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 235,
+		"url" : "https:\/\/kinhtevadubao.vn",
+		"sourceType" : 1,
+		"name" : "kinhtevadubao.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 236,
+		"url" : "https:\/\/ktds.vn",
+		"sourceType" : 1,
+		"name" : "ktds.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 237,
+		"url" : "https:\/\/laodong.vn",
+		"sourceType" : 1,
+		"name" : "laodong.vn",
+		"channels" : "https:\/\/laodong.vn\/,https:\/\/laodong.vn\/thoi-su\/,https:\/\/laodong.vn\/cong-doan\/,https:\/\/laodong.vn\/the-gioi\/,https:\/\/laodong.vn\/xa-hoi\/,https:\/\/laodong.vn\/kinh-te\/,https:\/\/laodong.vn\/phap-luat\/,https:\/\/laodong.vn\/suc-khoe\/,https:\/\/laodong.vn\/van-hoa-giai-tri\/,https:\/\/laodong.vn\/the-thao\/,https:\/\/laodong.vn\/du-lich\/,https:\/\/laodong.vn\/cong-nghe\/,https:\/\/laodong.vn\/dien-dan-ban-doc\/,https:\/\/laodong.vn\/su-kien-binh-luan\/,https:\/\/laodong.vn\/phong-su\/,https:\/\/laodong.vn\/tan-man-chuyen-doc-duong\/,https:\/\/laodong.vn\/lao-dong-cuoi-tuan\/,https:\/\/laodong.vn\/lao-dong-doi-song\/,https:\/\/laodong.vn\/chuyen-trang\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 238,
+		"url" : "https:\/\/lofficielvietnam.com",
+		"sourceType" : 1,
+		"name" : "lofficielvietnam.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 239,
+		"url" : "https:\/\/m.baohaiduong.vn",
+		"sourceType" : 1,
+		"name" : "m.baohaiduong.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 240,
+		"url" : "https:\/\/m.nhipcaudautu.vn",
+		"sourceType" : 1,
+		"name" : "m.nhipcaudautu.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 241,
+		"url" : "https:\/\/markettimes.vn",
+		"sourceType" : 1,
+		"name" : "markettimes.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 242,
+		"url" : "https:\/\/media.qdnd.vn",
+		"sourceType" : 1,
+		"name" : "media.qdnd.vn",
+		"channels" : "https:\/\/media.qdnd.vn\/audio\/danh-sach-tin-audio.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 243,
+		"url" : "https:\/\/mensfolio.vn",
+		"sourceType" : 1,
+		"name" : "mensfolio.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 244,
+		"url" : "https:\/\/nghenhinvietnam.vn",
+		"sourceType" : 1,
+		"name" : "nghenhinvietnam.vn",
+		"channels" : "http:\/\/nghenhinvietnam.vn\/,http:\/\/nghenhinvietnam.vn\/tin-tuc\/,http:\/\/nghenhinvietnam.vn\/thu-may\/,http:\/\/nghenhinvietnam.vn\/xu-huong\/,http:\/\/nghenhinvietnam.vn\/tu-van\/,http:\/\/nghenhinvietnam.vn\/xe-doi-song\/,http:\/\/nghenhinvietnam.vn\/dien-thoai\/,http:\/\/nghenhinvietnam.vn\/may-tinh-bang\/,http:\/\/nghenhinvietnam.vn\/may-anh\/,http:\/\/nghenhinvietnam.vn\/may-tinh\/,http:\/\/nghenhinvietnam.vn\/tv\/,http:\/\/nghenhinvietnam.vn\/hifi\/,http:\/\/nghenhinvietnam.vn\/phu-kien\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 245,
+		"url" : "https:\/\/nhadat.tuoitre.vn",
+		"sourceType" : 1,
+		"name" : "nhadat.tuoitre.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 246,
+		"url" : "https:\/\/oxii.vn",
+		"sourceType" : 1,
+		"name" : "oxii.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 247,
+		"url" : "https:\/\/saigondautu.com.vn",
+		"sourceType" : 1,
+		"name" : "saigondautu.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 248,
+		"url" : "https:\/\/saokpop.com",
+		"sourceType" : 1,
+		"name" : "saokpop.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 249,
+		"url" : "https:\/\/special.nhandan.vn",
+		"sourceType" : 1,
+		"name" : "special.nhandan.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 250,
+		"url" : "https:\/\/style-republik.com",
+		"sourceType" : 1,
+		"name" : "style-republik.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 251,
+		"url" : "https:\/\/techz.vn",
+		"sourceType" : 1,
+		"name" : "techz.vn",
+		"channels" : null,
+		"settings" : "{   \"bodyExcSelector\": \".inner-article\" }",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 252,
+		"url" : "https:\/\/thieunien.vn",
+		"sourceType" : 1,
+		"name" : "thieunien.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 253,
+		"url" : "https:\/\/thuongtruong24h.vn",
+		"sourceType" : 1,
+		"name" : "thuongtruong24h.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 254,
+		"url" : "https:\/\/tinmoi.vn",
+		"sourceType" : 1,
+		"name" : "tinmoi.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 255,
+		"url" : "https:\/\/tinnhac.com",
+		"sourceType" : 1,
+		"name" : "tinnhac.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 256,
+		"url" : "https:\/\/tintucvietnam.vn",
+		"sourceType" : 1,
+		"name" : "tintucvietnam.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 257,
+		"url" : "https:\/\/vietcetera.com",
+		"sourceType" : 1,
+		"name" : "vietcetera.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 258,
+		"url" : "https:\/\/vnbusiness.vn",
+		"sourceType" : 1,
+		"name" : "vnbusiness.vn",
+		"channels" : "https:\/\/vnbusiness.vn\/,https:\/\/vnbusiness.vn\/tai-chinh,https:\/\/vnbusiness.vn\/chung-khoan,https:\/\/vnbusiness.vn\/bat-dong-san,https:\/\/vnbusiness.vn\/doanh-nghiep,https:\/\/vnbusiness.vn\/hi-tech,https:\/\/vnbusiness.vn\/thoi-su,https:\/\/vnbusiness.vn\/cooperative,https:\/\/vnbusiness.vn\/startup,https:\/\/vnbusiness.vn\/song,https:\/\/vnbusiness.vn\/video,https:\/\/vnbusiness.vn\/business-cooperative\/,https:\/\/vnbusiness.vn\/anh",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 259,
+		"url" : "https:\/\/vntravellive.com",
+		"sourceType" : 1,
+		"name" : "vntravellive.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 260,
+		"url" : "https:\/\/vothuat.vn",
+		"sourceType" : 1,
+		"name" : "vothuat.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 686,
+		"url" : "http:\/\/baobackan.com.vn",
+		"sourceType" : 1,
+		"name" : "baobackan.com.vn",
+		"channels" : "http:\/\/baobackan.com.vn\/,http:\/\/baobackan.com.vn\/chinh-tri\/,http:\/\/baobackan.com.vn\/kinh-te\/,http:\/\/baobackan.com.vn\/xa-hoi\/,http:\/\/baobackan.com.vn\/van-hoa\/,http:\/\/baobackan.com.vn\/the-thao\/,http:\/\/baobackan.com.vn\/phap-luat-va-cuoc-song\/,http:\/\/baobackan.com.vn\/quoc-phong-an-ninh\/,http:\/\/baobackan.com.vn\/du-lich\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 687,
+		"url" : "http:\/\/baobacninh.com.vn",
+		"sourceType" : 1,
+		"name" : "baobacninh.com.vn",
+		"channels" : "http:\/\/baobacninh.com.vn\/,http:\/\/baobacninh.com.vn\/web\/bbn\/chinh-tri-xa-hoi,http:\/\/baobacninh.com.vn\/web\/bbn\/kinh-te,http:\/\/baobacninh.com.vn\/web\/bbn\/van-hoa,http:\/\/baobacninh.com.vn\/web\/bbn\/dien-an-cong-luan,http:\/\/baobacninh.com.vn\/web\/bbn\/phong-su-ghi-chep,http:\/\/baobacninh.com.vn\/web\/bbn\/xay-dung-ang,http:\/\/baobacninh.com.vn\/web\/bbn\/an-ninh-quoc-phong",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 688,
+		"url" : "http:\/\/baodienbienphu.info.vn",
+		"sourceType" : 1,
+		"name" : "baodienbienphu.info.vn",
+		"channels" : "http:\/\/baodienbienphu.info.vn\/,http:\/\/baodienbienphu.info.vn\/tin-tuc\/66\/chinh-tri\/,http:\/\/baodienbienphu.info.vn\/Tin-tuc\/194\/xa-hoi\/,http:\/\/baodienbienphu.info.vn\/Tin-tuc\/584\/dau-tu\/,http:\/\/baodienbienphu.info.vn\/Tin-tuc\/279\/giao-duc\/,http:\/\/baodienbienphu.info.vn\/Tin-tuc\/573\/y-te\/,http:\/\/baodienbienphu.info.vn\/Tin-tuc\/68\/phap-luat\/,http:\/\/baodienbienphu.info.vn\/Tin-tuc\/278\/quoc-te\/,http:\/\/baodienbienphu.info.vn\/Tin-tuc\/392\/van-hoa\/,http:\/\/baodienbienphu.info.vn\/Tin-tuc\/506\/du-lich\/,http:\/\/baodienbienphu.info.vn\/Tin-tuc\/500\/the-thao\/,http:\/\/baodienbienphu.info.vn\/Tin-tuc\/523\/khoa-hoc\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 689,
+		"url" : "http:\/\/baodongnai.com.vn",
+		"sourceType" : 1,
+		"name" : "baodongnai.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 690,
+		"url" : "http:\/\/baohagiang.vn",
+		"sourceType" : 1,
+		"name" : "baohagiang.vn",
+		"channels" : "http:\/\/baohagiang.vn\/,http:\/\/baohagiang.vn\/thoi-su-chinh-tri\/,http:\/\/baohagiang.vn\/kinh-te\/,http:\/\/baohagiang.vn\/van-hoa\/,http:\/\/baohagiang.vn\/xa-hoi\/,http:\/\/baohagiang.vn\/an-ninh-quoc-phong\/,http:\/\/baohagiang.vn\/hoc-tap-theo-bac\/,http:\/\/baohagiang.vn\/quoc-te\/,http:\/\/baohagiang.vn\/phap-luat\/,http:\/\/baohagiang.vn\/media-bhg\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 691,
+		"url" : "http:\/\/baohoabinh.com.vn",
+		"sourceType" : 1,
+		"name" : "baohoabinh.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 692,
+		"url" : "http:\/\/baolamdong.vn",
+		"sourceType" : 1,
+		"name" : "baolamdong.vn",
+		"channels" : "http:\/\/baolamdong.vn\/,http:\/\/baolamdong.vn\/chinhtri\/,http:\/\/baolamdong.vn\/xahoi\/,http:\/\/baolamdong.vn\/kinhte\/,http:\/\/baolamdong.vn\/khoahoc\/,http:\/\/baolamdong.vn\/dulich\/,http:\/\/baolamdong.vn\/vhnt\/,http:\/\/baolamdong.vn\/bantre\/,http:\/\/baolamdong.vn\/phapluat\/,http:\/\/baolamdong.vn\/thethao\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 693,
+		"url" : "http:\/\/baonamdinh.com.vn",
+		"sourceType" : 1,
+		"name" : "baonamdinh.com.vn",
+		"channels" : "http:\/\/baonamdinh.com.vn\/,http:\/\/baonamdinh.com.vn\/channel\/5083\/,http:\/\/baonamdinh.com.vn\/channel\/5084\/,http:\/\/baonamdinh.com.vn\/channel\/5085\/,http:\/\/baonamdinh.com.vn\/channel\/5086\/,http:\/\/baonamdinh.com.vn\/channel\/5087\/,http:\/\/baonamdinh.com.vn\/channel\/5088\/,http:\/\/baonamdinh.com.vn\/channel\/5089\/,http:\/\/baonamdinh.com.vn\/channel\/5090\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 694,
+		"url" : "http:\/\/baosonla.org.vn",
+		"sourceType" : 1,
+		"name" : "baosonla.org.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 695,
+		"url" : "http:\/\/soi.today",
+		"sourceType" : 1,
+		"name" : "soi.today",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 696,
+		"url" : "http:\/\/tapchimythuat.vn",
+		"sourceType" : 1,
+		"name" : "tapchimythuat.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 697,
+		"url" : "http:\/\/video.congan.com.vn",
+		"sourceType" : 1,
+		"name" : "video.congan.com.vn",
+		"channels" : "http:\/\/video.congan.com.vn\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 699,
+		"url" : "https:\/\/24h.com.vn",
+		"sourceType" : 1,
+		"name" : "24h.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 700,
+		"url" : "https:\/\/atgt.baogiaothong.vn",
+		"sourceType" : 1,
+		"name" : "atgt.baogiaothong.vn",
+		"channels" : "https:\/\/atgt.baogiaothong.vn\/,https:\/\/atgt.baogiaothong.vn\/giao-thong-24h\/,https:\/\/atgt.baogiaothong.vn\/atgt-dia-phuong\/,https:\/\/atgt.baogiaothong.vn\/van-hoa-giao-thong\/,https:\/\/atgt.baogiaothong.vn\/lai-xe-an-toan\/,https:\/\/atgt.baogiaothong.vn\/chung-tay-vi-atgt\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 701,
+		"url" : "https:\/\/baoangiang.com.vn",
+		"sourceType" : 1,
+		"name" : "baoangiang.com.vn",
+		"channels" : "http:\/\/baoangiang.com.vn\/,http:\/\/baoangiang.com.vn\/an-giang-24-gio\/,http:\/\/baoangiang.com.vn\/chinh-tri-xa-hoi\/,http:\/\/baoangiang.com.vn\/kinh-doanh\/,http:\/\/baoangiang.com.vn\/giao-duc\/,http:\/\/baoangiang.com.vn\/phap-luat\/,http:\/\/baoangiang.com.vn\/quoc-te\/,http:\/\/baoangiang.com.vn\/van-hoa\/,http:\/\/baoangiang.com.vn\/the-thao\/,https:\/\/baoangiang.com.vn\/video\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 702,
+		"url" : "https:\/\/baobaclieu.vn",
+		"sourceType" : 1,
+		"name" : "baobaclieu.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 703,
+		"url" : "https:\/\/baodaklak.vn",
+		"sourceType" : 1,
+		"name" : "baodaklak.vn",
+		"channels" : "http:\/\/baodaklak.vn\/,http:\/\/baodaklak.vn\/thoi-su\/,http:\/\/baodaklak.vn\/chinh-tri\/,http:\/\/baodaklak.vn\/kinh-te\/,http:\/\/baodaklak.vn\/xa-hoi\/,http:\/\/baodaklak.vn\/van-hoa-du-lich-van-hoc-nghe-thuat\/,http:\/\/baodaklak.vn\/du-lich\/,http:\/\/baodaklak.vn\/khoa-hoc-cong-nghe\/,http:\/\/baodaklak.vn\/phap-luat\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 704,
+		"url" : "https:\/\/baodanang.vn",
+		"sourceType" : 1,
+		"name" : "baodanang.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 705,
+		"url" : "https:\/\/baohanam.com.vn",
+		"sourceType" : 1,
+		"name" : "baohanam.com.vn",
+		"channels" : "https:\/\/baohanam.com.vn\/,https:\/\/baohanam.com.vn\/chinh-tri,https:\/\/baohanam.com.vn\/xa-hoi,https:\/\/baohanam.com.vn\/kinh-te,https:\/\/baohanam.com.vn\/an-ninh,https:\/\/baohanam.com.vn\/quoc-phong,https:\/\/baohanam.com.vn\/van-hoa,https:\/\/baohanam.com.vn\/the-thao,https:\/\/baohanam.com.vn\/quoc-te",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 706,
+		"url" : "https:\/\/baohatinh.vn",
+		"sourceType" : 1,
+		"name" : "baohatinh.vn",
+		"channels" : "https:\/\/baohatinh.vn\/,https:\/\/baohatinh.vn\/chinh-tri\/,https:\/\/baohatinh.vn\/kinh-te\/,https:\/\/baohatinh.vn\/xa-hoi\/,https:\/\/baohatinh.vn\/quoc-phong-an-ninh\/,https:\/\/baohatinh.vn\/phap-luat\/,https:\/\/baohatinh.vn\/van-hoa-giai-tri\/,https:\/\/baohatinh.vn\/the-thao\/,https:\/\/baohatinh.vn\/quoc-te\/,https:\/\/baohatinh.vn\/khoa-hoc-cong-nghe\/,https:\/\/baohatinh.vn\/song-khoe\/,https:\/\/baohatinh.vn\/ban-doc\/,https:\/\/baohatinh.vn\/goc-hai\/,https:\/\/baohatinh.vn\/video\/,https:\/\/baohatinh.vn\/tin24h\/,https:\/\/baohatinh.vn\/ve-ha-tinh\/,https:\/\/baohatinh.vn\/xe\/,https:\/\/baohatinh.vn\/emagazine\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 707,
+		"url" : "https:\/\/baohaugiang.com.vn",
+		"sourceType" : 1,
+		"name" : "baohaugiang.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 708,
+		"url" : "https:\/\/baolaichau.vn",
+		"sourceType" : 1,
+		"name" : "baolaichau.vn",
+		"channels" : "https:\/\/baolaichau.vn\/,https:\/\/baolaichau.vn\/ch%C3%ADnh-tr%E1%BB%8B,https:\/\/baolaichau.vn\/x%C3%A3-h%E1%BB%99i,https:\/\/baolaichau.vn\/kinh-t%E1%BA%BF,https:\/\/baolaichau.vn\/th%E1%BA%BF-gi%E1%BB%9Bi,https:\/\/baolaichau.vn\/v%C4%83n-h%C3%B3a,https:\/\/baolaichau.vn\/th%E1%BB%83-thao,https:\/\/baolaichau.vn\/ph%C3%A1p-lu%E1%BA%ADt,https:\/\/baolaichau.vn\/ninh-qu%E1%BB%91c-ph%C3%B2ng,https:\/\/baolaichau.vn\/khoa-h%E1%BB%8Dc-%C4%91%E1%BB%9Di-s%E1%BB%91ng",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 709,
+		"url" : "https:\/\/baolangson.vn",
+		"sourceType" : 1,
+		"name" : "baolangson.vn",
+		"channels" : "https:\/\/baolangson.vn\/,https:\/\/baolangson.vn\/chinh-tri,https:\/\/baolangson.vn\/van-hoa,https:\/\/baolangson.vn\/kinh-te,https:\/\/baolangson.vn\/an-ninh-quoc-phong,https:\/\/baolangson.vn\/phap-luat,https:\/\/baolangson.vn\/du-lich,https:\/\/baolangson.vn\/quoc-te,https:\/\/baolangson.vn\/the-thao,https:\/\/baolangson.vn\/khoa-hoc-tin-hoc,https:\/\/baolangson.vn\/xa-hoi",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 710,
+		"url" : "https:\/\/baolaocai.vn",
+		"sourceType" : 1,
+		"name" : "baolaocai.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 711,
+		"url" : "https:\/\/baolongan.vn",
+		"sourceType" : 1,
+		"name" : "baolongan.vn",
+		"channels" : "http:\/\/baolongan.vn\/,http:\/\/baolongan.vn\/thoi-su-chinh-tri\/,http:\/\/baolongan.vn\/quoc-te\/,http:\/\/baolongan.vn\/phap-luat\/,http:\/\/baolongan.vn\/kinh-te\/,http:\/\/baolongan.vn\/doi-song-xa-hoi\/,http:\/\/baolongan.vn\/giao-duc\/,http:\/\/baolongan.vn\/song-khoe\/,http:\/\/baolongan.vn\/van-hoa-giai-tri\/,http:\/\/baolongan.vn\/nhip-song-tre\/,http:\/\/baolongan.vn\/quoc-phong-an-ninh\/,http:\/\/baolongan.vn\/the-thao\/,http:\/\/baolongan.vn\/cong-nghe\/,http:\/\/baolongan.vn\/du-lich\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 712,
+		"url" : "https:\/\/baoninhbinh.org.vn",
+		"sourceType" : 1,
+		"name" : "baoninhbinh.org.vn",
+		"channels" : "http:\/\/baoninhbinh.org.vn\/,http:\/\/baoninhbinh.org.vn\/chinh-tri-p0c12.htm,http:\/\/baoninhbinh.org.vn\/kinh-te-p0c2.htm,http:\/\/baoninhbinh.org.vn\/van-hoaxa-hoi-p0c3.htm,http:\/\/baoninhbinh.org.vn\/y-tekhoa-giao-p0c4.htm,http:\/\/baoninhbinh.org.vn\/du-lich-p0c15.htm,http:\/\/baoninhbinh.org.vn\/an-ninhquoc-phong-p0c5.htm,http:\/\/baoninhbinh.org.vn\/the-thao-p0c11.htm,http:\/\/baoninhbinh.org.vn\/the-gioi-p0c58.htm,http:\/\/baoninhbinh.org.vn\/van-nghe-p0c1.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 713,
+		"url" : "https:\/\/baophutho.vn",
+		"sourceType" : 1,
+		"name" : "baophutho.vn",
+		"channels" : "http:\/\/baophutho.vn\/,http:\/\/baophutho.vn\/chinh-tri\/,http:\/\/baophutho.vn\/thoi-su\/,http:\/\/baophutho.vn\/xa-hoi\/,http:\/\/baophutho.vn\/kinh-te\/,http:\/\/baophutho.vn\/van-hoa\/,http:\/\/baophutho.vn\/giao-duc\/,http:\/\/baophutho.vn\/the-thao\/,http:\/\/baophutho.vn\/suc-khoe-doi-song\/,http:\/\/baophutho.vn\/an-ninh-quoc-phong\/,http:\/\/baophutho.vn\/phap-luat\/,http:\/\/baophutho.vn\/quoc-te\/,http:\/\/baophutho.vn\/dan-toc-mien-nui\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 714,
+		"url" : "https:\/\/baoquangbinh.vn",
+		"sourceType" : 1,
+		"name" : "baoquangbinh.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 715,
+		"url" : "https:\/\/baoquangngai.vn",
+		"sourceType" : 1,
+		"name" : "baoquangngai.vn",
+		"channels" : "http:\/\/baoquangngai.vn\/,http:\/\/baoquangngai.vn\/channel\/2022\/,http:\/\/baoquangngai.vn\/channel\/2023\/,http:\/\/baoquangngai.vn\/channel\/2025\/,http:\/\/baoquangngai.vn\/channel\/2024\/,http:\/\/baoquangngai.vn\/channel\/2027\/,http:\/\/baoquangngai.vn\/channel\/2028\/,http:\/\/baoquangngai.vn\/channel\/2030\/,http:\/\/baoquangngai.vn\/channel\/2029\/,http:\/\/baoquangngai.vn\/channel\/2033\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 716,
+		"url" : "https:\/\/baosoctrang.org.vn",
+		"sourceType" : 1,
+		"name" : "baosoctrang.org.vn",
+		"channels" : "http:\/\/baosoctrang.org.vn\/,http:\/\/baosoctrang.org.vn\/thoi-su-1.html,http:\/\/baosoctrang.org.vn\/chinh-tri-3.html,http:\/\/baosoctrang.org.vn\/kinh-te-4.html,http:\/\/baosoctrang.org.vn\/xa-hoi-1025.html,http:\/\/baosoctrang.org.vn\/van-hoa-the-thao-10.html,http:\/\/baosoctrang.org.vn\/phap-luat-ban-doc-1022.html,http:\/\/baosoctrang.org.vn\/khoa-hoc-va-cong-nghe-9.html,http:\/\/baosoctrang.org.vn\/chuyen-de-12.html,http:\/\/baosoctrang.org.vn\/quoc-te-11.html,http:\/\/baosoctrang.org.vn\/tin-dia-phuong-1026.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 717,
+		"url" : "https:\/\/baotayninh.vn",
+		"sourceType" : 1,
+		"name" : "baotayninh.vn",
+		"channels" : "https:\/\/baotayninh.vn\/,https:\/\/baotayninh.vn\/thoi-su-chinh-tri\/,https:\/\/baotayninh.vn\/kinh-te\/,https:\/\/baotayninh.vn\/xa-hoi\/,https:\/\/baotayninh.vn\/phap-luat\/,https:\/\/baotayninh.vn\/van-hoa-giai-tri\/,https:\/\/baotayninh.vn\/quoc-te\/,https:\/\/baotayninh.vn\/cong-nghe\/,https:\/\/baotayninh.vn\/y-te-suc-khoe\/,https:\/\/baotayninh.vn\/the-thao\/,https:\/\/baotayninh.vn\/video\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 718,
+		"url" : "https:\/\/baothaibinh.com.vn",
+		"sourceType" : 1,
+		"name" : "baothaibinh.com.vn",
+		"channels" : "http:\/\/baothaibinh.com.vn\/,http:\/\/baothaibinh.com.vn\/chuyen-muc\/203\/thoi-su,http:\/\/baothaibinh.com.vn\/chuyen-muc\/1\/chinh-tri,http:\/\/baothaibinh.com.vn\/chuyen-muc\/4\/kinh-te,http:\/\/baothaibinh.com.vn\/chuyen-muc\/9\/xa-hoi,http:\/\/baothaibinh.com.vn\/chuyen-muc\/24\/quoc-te,http:\/\/baothaibinh.com.vn\/chuyen-muc\/19\/van-hoa,http:\/\/baothaibinh.com.vn\/chuyen-muc\/38\/van-hoa\/du-lich,http:\/\/baothaibinh.com.vn\/chuyen-muc\/15\/quoc-phong-an-ninh,http:\/\/baothaibinh.com.vn\/chuyen-muc\/16\/an-ninh-quoc-phong\/phap-luat-va-doi-song,http:\/\/baothaibinh.com.vn\/chuyen-muc\/18\/the-thao,http:\/\/baothaibinh.com.vn\/video,https:\/\/baothaibinh.com.vn\/,https:\/\/baothaibinh.com.vn\/chuyen-muc\/1\/chinh-tri,https:\/\/baothaibinh.com.vn\/chuyen-muc\/4\/kinh-te,https:\/\/baothaibinh.com.vn\/chuyen-muc\/9\/xa-hoi,https:\/\/baothaibinh.com.vn\/chuyen-muc\/24\/quoc-te,https:\/\/baothaibinh.com.vn\/chuyen-muc\/19\/van-hoa,https:\/\/baothaibinh.com.vn\/chuyen-muc\/15\/quoc-phong-an-ninh,https:\/\/baothaibinh.com.vn\/chuyen-muc\/16\/an-ninh-quoc-phong\/phap-luat-va-doi-song,https:\/\/baothaibinh.com.vn\/chuyen-muc\/18\/the-thao",
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 719,
+		"url" : "https:\/\/baotuyenquang.com.vn",
+		"sourceType" : 1,
+		"name" : "baotuyenquang.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 721,
+		"url" : "https:\/\/brandsvietnam.com",
+		"sourceType" : 1,
+		"name" : "brandsvietnam.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 722,
+		"url" : "https:\/\/cuongphim.com",
+		"sourceType" : 1,
+		"name" : "cuongphim.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 723,
+		"url" : "https:\/\/elledecoration.vn",
+		"sourceType" : 1,
+		"name" : "elledecoration.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 724,
+		"url" : "https:\/\/elleman.vn",
+		"sourceType" : 1,
+		"name" : "elleman.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 725,
+		"url" : "https:\/\/eva.vn",
+		"sourceType" : 1,
+		"name" : "eva.vn",
+		"channels" : "http:\/\/eva.vn\/,http:\/\/eva.vn\/tin-tuc-c73.html,http:\/\/eva.vn\/eva-tam-c66.html,http:\/\/eva.vn\/lang-sao-c20.html,http:\/\/eva.vn\/thoi-trang-c36.html,http:\/\/eva.vn\/lam-dep-c58.html,http:\/\/eva.vn\/ba-bau-c85.html,http:\/\/eva.vn\/lam-me-c10.html,http:\/\/eva.vn\/tinh-yeu-gioi-tinh-c3.html,http:\/\/eva.vn\/bep-eva-c162.html,http:\/\/eva.vn\/nha-dep-c169.html,http:\/\/eva.vn\/suc-khoe-c131.html,http:\/\/eva.vn\/du-lich-c287.html,http:\/\/eva.vn\/clip-eva-c157.html",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 726,
+		"url" : "https:\/\/fashionbible.vn",
+		"sourceType" : 1,
+		"name" : "fashionbible.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 727,
+		"url" : "https:\/\/gioitreviet.vn",
+		"sourceType" : 1,
+		"name" : "gioitreviet.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 728,
+		"url" : "https:\/\/golfviet.vn",
+		"sourceType" : 1,
+		"name" : "golfviet.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 729,
+		"url" : "https:\/\/hanoitv.vn",
+		"sourceType" : 1,
+		"name" : "hanoitv.vn",
+		"channels" : "https:\/\/hanoitv.vn\/,https:\/\/hanoitv.vn\/Video-cv154\/,https:\/\/hanoitv.vn\/Thoi-su-c61\/,https:\/\/hanoitv.vn\/Chinh-tri-c86\/,https:\/\/hanoitv.vn\/The-gioi-c166\/,https:\/\/hanoitv.vn\/trat-tu-do-thi-c435\/,https:\/\/hanoitv.vn\/Giai-tri-c62\/,https:\/\/hanoitv.vn\/suc-khoe-c142\/,https:\/\/hanoitv.vn\/thoi-su-ha-noi-c278\/,https:\/\/hanoitv.vn\/chuyen-dong-ha-noi-c427\/,https:\/\/hanoitv.vn\/suc-khoe-la-tren-het-c298\/,https:\/\/hanoitv.vn\/fm-du-lich-c287\/,https:\/\/hanoitv.vn\/radio-4-teen-c325\/,https:\/\/hanoitv.vn\/the-gioi-mang-c386\/,https:\/\/hanoitv.vn\/chuong-trinh-ha-noi-1800-cv220\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 730,
+		"url" : "https:\/\/interiordaily.vn",
+		"sourceType" : 1,
+		"name" : "interiordaily.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 731,
+		"url" : "https:\/\/khanhhoa24h.net",
+		"sourceType" : 1,
+		"name" : "khanhhoa24h.net",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 732,
+		"url" : "https:\/\/khoinghieptre.tuoitrethudo.com.vn",
+		"sourceType" : 1,
+		"name" : "khoinghieptre.tuoitrethudo.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 733,
+		"url" : "https:\/\/kites.vn",
+		"sourceType" : 1,
+		"name" : "kites.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 734,
+		"url" : "https:\/\/lostbird.vn",
+		"sourceType" : 1,
+		"name" : "lostbird.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 740,
+		"url" : "https:\/\/m.vietnamfinance.vn",
+		"sourceType" : 1,
+		"name" : "m.vietnamfinance.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 741,
+		"url" : "https:\/\/media.chinhphu.vn",
+		"sourceType" : 1,
+		"name" : "media.chinhphu.vn",
+		"channels" : "https:\/\/media.chinhphu.vn\/radio-news.htm,https:\/\/media.chinhphu.vn\/brandvoice.htm",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 743,
+		"url" : "https:\/\/molistar.com",
+		"sourceType" : 1,
+		"name" : "molistar.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 745,
+		"url" : "https:\/\/nhipcaudautu.vn",
+		"sourceType" : 1,
+		"name" : "nhipcaudautu.vn",
+		"channels" : "https:\/\/nhipcaudautu.vn\/,https:\/\/nhipcaudautu.vn\/kinh-doanh\/,https:\/\/nhipcaudautu.vn\/doanh-nghiep\/,https:\/\/nhipcaudautu.vn\/tai-chinh\/,https:\/\/nhipcaudautu.vn\/the-gioi\/,https:\/\/nhipcaudautu.vn\/phong-cach-song\/,https:\/\/nhipcaudautu.vn\/cong-nghe\/,https:\/\/nhipcaudautu.vn\/ceo\/,https:\/\/nhipcaudautu.vn\/chuyen-de\/,https:\/\/nhipcaudautu.vn\/bat-dong-san\/,https:\/\/nhipcaudautu.vn\/kieu-bao\/",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 746,
+		"url" : "https:\/\/phapluat.tuoitrethudo.com.vn",
+		"sourceType" : 1,
+		"name" : "phapluat.tuoitrethudo.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 747,
+		"url" : "https:\/\/phunu.nld.com.vn",
+		"sourceType" : 1,
+		"name" : "phunu.nld.com.vn",
+		"channels" : "https:\/\/phunu.nld.com.vn\/,https:\/\/phunu.nld.com.vn\/chuyen-cua-sao.htm,https:\/\/phunu.nld.com.vn\/video-clip.htm,https:\/\/phunu.nld.com.vn\/me-thong-thai.htm,https:\/\/phunu.nld.com.vn\/mon-ngon.htm,https:\/\/phunu.nld.com.vn\/diem-den.htm,https:\/\/phunu.nld.com.vn\/tam-su.htm,https:\/\/phunu.nld.com.vn\/lam-dep.htm",
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 748,
+		"url" : "https:\/\/rgb.vn",
+		"sourceType" : 1,
+		"name" : "rgb.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 749,
+		"url" : "https:\/\/robbreport.com.vn",
+		"sourceType" : 1,
+		"name" : "robbreport.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 750,
+		"url" : "https:\/\/spiderum.com",
+		"sourceType" : 1,
+		"name" : "spiderum.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 751,
+		"url" : "https:\/\/startup.vnexpress.net",
+		"sourceType" : 1,
+		"name" : "startup.vnexpress.net",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 752,
+		"url" : "https:\/\/streetvibe.vn",
+		"sourceType" : 1,
+		"name" : "streetvibe.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 753,
+		"url" : "https:\/\/suckhoehangngay.vn",
+		"sourceType" : 1,
+		"name" : "suckhoehangngay.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 754,
+		"url" : "https:\/\/themillennials.life",
+		"sourceType" : 1,
+		"name" : "themillennials.life",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 755,
+		"url" : "https:\/\/thitruong.nld.com.vn",
+		"sourceType" : 1,
+		"name" : "thitruong.nld.com.vn",
+		"channels" : "https:\/\/thitruong.nld.com.vn\/,https:\/\/thitruong.nld.com.vn\/tieu-dung.htm,https:\/\/thitruong.nld.com.vn\/doanh-nghiep-doanh-nhan.htm,https:\/\/thitruong.nld.com.vn\/du-lich.htm,https:\/\/thitruong.nld.com.vn\/vnmoney.htm,https:\/\/thitruong.nld.com.vn\/nhip-song.htm",
+		"settings" : "",
+		"enable" : 0,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 756,
+		"url" : "https:\/\/tiasang.com.vn",
+		"sourceType" : 1,
+		"name" : "tiasang.com.vn",
+		"channels" : "http:\/\/tiasang.com.vn\/,http:\/\/tiasang.com.vn\/tin-tuc,http:\/\/tiasang.com.vn\/dien-dan,http:\/\/tiasang.com.vn\/quan-ly-khoa-hoc,http:\/\/tiasang.com.vn\/khoa-hoc-cong-nghe,http:\/\/tiasang.com.vn\/doi-moi-sang-tao,http:\/\/tiasang.com.vn\/giao-duc,http:\/\/tiasang.com.vn\/van-hoa",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 757,
+		"url" : "https:\/\/tieudung.kinhtedothi.vn",
+		"sourceType" : 1,
+		"name" : "tieudung.kinhtedothi.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 758,
+		"url" : "https:\/\/tinanime.com",
+		"sourceType" : 1,
+		"name" : "tinanime.com",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 759,
+		"url" : "https:\/\/travelmag.vn",
+		"sourceType" : 1,
+		"name" : "travelmag.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 760,
+		"url" : "https:\/\/tuoitrethudo.com.vn",
+		"sourceType" : 1,
+		"name" : "tuoitrethudo.com.vn",
+		"channels" : "https:\/\/tuoitrethudo.com.vn,https:\/\/tuoitrethudo.com.vn\/thoi-su,https:\/\/tuoitrethudo.com.vn\/xa-hoi,https:\/\/tuoitrethudo.com.vn\/nhip-song-tre,https:\/\/tuoitrethudo.com.vn\/van-hoa,https:\/\/tuoitrethudo.com.vn\/giao-duc,https:\/\/tuoitrethudo.com.vn\/the-thao,https:\/\/tuoitrethudo.com.vn\/phap-luat,https:\/\/tuoitrethudo.com.vn\/kinh-te,https:\/\/tuoitrethudo.com.vn\/bat-dong-san,https:\/\/tuoitrethudo.com.vn\/quoc-te,https:\/\/tuoitrethudo.com.vn\/ban-doc,https:\/\/tuoitrethudo.com.vn\/xe,https:\/\/tuoitrethudo.com.vn\/suc-khoe,https:\/\/tuoitrethudo.com.vn\/video,https:\/\/tuoitrethudo.com.vn\/emagazine,https:\/\/tuoitrethudo.com.vn\/infographic,https:\/\/tuoitrethudo.com.vn\/cong-nghe,https:\/\/tuoitrethudo.com.vn\/anh-dep",
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 761,
+		"url" : "https:\/\/tuoitrexahoi.vn",
+		"sourceType" : 1,
+		"name" : "tuoitrexahoi.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 762,
+		"url" : "https:\/\/tv.danviet.vn",
+		"sourceType" : 1,
+		"name" : "tv.danviet.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 763,
+		"url" : "https:\/\/video.voh.com.vn",
+		"sourceType" : 1,
+		"name" : "video.voh.com.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	},
+	{
+		"id" : 764,
+		"url" : "https:\/\/wetoday.vn",
+		"sourceType" : 1,
+		"name" : "wetoday.vn",
+		"channels" : null,
+		"settings" : "",
+		"enable" : 1,
+		"intervalSecond" : 360
+	}
+]}
